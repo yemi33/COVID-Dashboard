@@ -1,0 +1,197 @@
+name,Region,Last Update,Confirmed,Deaths,Recovered
+Hubei,Mainland China,3/11/20,67781,3056,50298
+Guangdong,Mainland China,3/11/20,1356,8,1288
+Henan,Mainland China,3/11/20,1273,22,1249
+Zhejiang,Mainland China,3/11/20,1215,1,1197
+Hunan,Mainland China,3/11/20,1018,4,998
+Anhui,Mainland China,3/11/20,990,6,984
+Jiangxi,Mainland China,3/11/20,935,1,934
+Shandong,Mainland China,3/11/20,760,6,733
+Jiangsu,Mainland China,3/11/20,631,0,628
+Chongqing,Mainland China,3/11/20,576,6,554
+Sichuan,Mainland China,3/11/20,539,3,494
+Heilongjiang,Mainland China,3/11/20,482,13,440
+Beijing,Mainland China,3/11/20,435,8,334
+Shanghai,Mainland China,3/11/20,344,3,320
+Hebei,Mainland China,3/11/20,318,6,307
+Fujian,Mainland China,3/11/20,296,1,295
+Guangxi,Mainland China,3/11/20,252,2,241
+Shaanxi,Mainland China,3/11/20,245,2,232
+Yunnan,Mainland China,3/11/20,174,2,170
+Hainan,Mainland China,3/11/20,168,6,159
+Guizhou,Mainland China,3/11/20,146,2,137
+Tianjin,Mainland China,3/11/20,136,3,132
+Shanxi,Mainland China,3/11/20,133,0,131
+Liaoning,Mainland China,3/11/20,125,1,111
+Gansu,Mainland China,3/11/20,127,2,88
+Hong Kong,Hong Kong,3/11/20,129,3,67
+Jilin,Mainland China,3/11/20,93,1,91
+Xinjiang Uygur,Mainland China,3/11/20,76,3,73
+Nei Mongol,Mainland China,3/11/20,75,1,71
+Ningxia,Mainland China,3/11/20,75,0,72
+Taiwan,Taiwan,3/11/20,48,1,17
+Qinghai,Mainland China,3/11/20,18,0,18
+Macau,Macau,3/11/20,10,0,10
+Xizang,Mainland China,3/11/20,1,0,1
+Cote d'Ivoire,Cote d'Ivoire,3/11/20,1,0,0
+Italy,Italy,3/11/20,12462,827,1045
+Iran,Iran,3/11/20,9000,354,2959
+South Korea,South Korea,3/11/20,7755,60,288
+France,France,3/11/20,2284,48,12
+Spain,Spain,3/11/20,2277,55,183
+Germany,Germany,3/11/20,1966,3,25
+Others,Japan (Diamond Princess),3/11/20,706,6,10
+Japan,Japan,3/11/20,637,14,118
+Switzerland,Switzerland,3/11/20,652,4,4
+Norway,Norway,3/11/20,629,0,1
+Denmark,Denmark,3/11/20,516,0,1
+Netherlands,Netherlands,3/11/20,503,5,0
+Sweden,Sweden,3/11/20,500,1,1
+United Kingdom,United Kingdom,3/11/20,459,8,19
+Belgium,Belgium,3/11/20,314,3,1
+Qatar,Qatar,3/11/20,262,0,0
+Austria,Austria,3/11/20,246,0,4
+Bahrain,Bahrain,3/11/20,195,0,35
+Singapore,Singapore,3/11/20,178,0,96
+Malaysia,Malaysia,3/11/20,149,0,26
+Australia,Australia,3/11/20,128,3,21
+Canada,Canada,3/11/20,117,1,8
+Israel,Israel,3/11/20,109,0,4
+Greece,Greece,3/11/20,99,1,0
+Iceland,Iceland,3/11/20,85,0,1
+United Arab Emirates,United Arab Emirates,3/11/20,74,0,17
+Kuwait,Kuwait,3/11/20,72,0,2
+Iraq,Iraq,3/11/20,71,7,15
+Czech Republic,Czech Republic,3/11/20,94,0,0
+Lebanon,Lebanon,3/11/20,61,3,1
+India,India,3/11/20,62,1,4
+San Marino,San Marino,3/11/20,62,2,0
+Egypt,Egypt,3/11/20,60,1,27
+Portugal,Portugal,3/11/20,59,0,0
+Thailand,Thailand,3/11/20,59,1,34
+Finland,Finland,3/11/20,59,0,1
+Slovenia,Slovenia,3/11/20,57,0,0
+Brazil,Brazil,3/11/20,52,0,0
+Philippines,Philippines,3/11/20,49,2,2
+Romania,Romania,3/11/20,47,0,6
+Saudi Arabia,Saudi Arabia,3/11/20,45,0,1
+Ireland,Ireland,3/11/20,43,1,0
+Vietnam,Vietnam,3/11/20,38,0,16
+Indonesia,Indonesia,3/11/20,34,1,2
+Poland,Poland,3/11/20,31,0,0
+Palestine,Palestine,3/11/20,26,0,0
+Georgia (country),Georgia,3/11/20,24,0,0
+Russia,Russia,3/11/20,20,0,3
+Algeria,Algeria,3/11/20,20,0,0
+Argentina,Argentina,3/11/20,19,1,0
+Pakistan,Pakistan,3/11/20,19,0,2
+Oman,Oman,3/11/20,18,0,9
+Chile,Chile,3/11/20,23,0,0
+Ecuador,Ecuador,3/11/20,17,0,0
+Croatia,Croatia,3/11/20,19,0,0
+South Africa,South Africa,3/11/20,13,0,0
+Costa Rica,Costa Rica,3/11/20,22,0,0
+Estonia,Estonia,3/11/20,16,0,0
+Albania,Albania,3/11/20,15,1,0
+Hungary,Hungary,3/11/20,13,0,0
+Serbia,Serbia,3/11/20,12,0,0
+Azerbaijan,Azerbaijan,3/11/20,11,0,3
+Peru,Peru,3/11/20,11,0,0
+Slovakia,Slovakia,3/11/20,10,0,0
+Latvia,Latvia,3/11/20,10,0,0
+Belarus,Belarus,3/11/20,9,0,0
+Colombia,Colombia,3/11/20,9,0,0
+Panama,Panama,3/11/20,8,0,0
+Maldives,Maldives,3/11/20,8,0,0
+Tunisia,Tunisia,3/11/20,7,0,0
+Luxembourg,Luxembourg,3/11/20,7,0,0
+North Macedonia,North Macedonia,3/11/20,7,0,0
+Afghanistan,Afghanistan,3/11/20,7,0,0
+Mexico,Mexico,3/11/20,8,0,4
+Brunei,Brunei,3/11/20,11,0,0
+Malta,Malta,3/11/20,6,0,0
+Bulgaria,Bulgaria,3/11/20,7,1,0
+Cyprus,Cyprus,3/11/20,6,0,0
+New Zealand,New Zealand,3/11/20,5,0,0
+Dominican Republic,Dominican Republic,3/11/20,5,0,0
+Bosnia and Herzegovina,Bosnia and Herzegovina,3/11/20,7,0,0
+Morocco,Morocco,3/11/20,6,1,0
+Paraguay,Paraguay,3/11/20,5,0,0
+Senegal,Senegal,3/11/20,4,0,1
+Lithuania,Lithuania,3/11/20,3,0,0
+Bangladesh,Bangladesh,3/11/20,3,0,0
+Cambodia,Cambodia,3/11/20,3,0,1
+Moldova,Moldova,3/11/20,3,0,0
+Nigeria,Nigeria,3/11/20,2,0,0
+Bolivia,Bolivia,3/11/20,2,0,0
+Sri Lanka,Sri Lanka,3/11/20,2,0,1
+Honduras,Honduras,3/11/20,2,0,0
+Cameroon,Cameroon,3/11/20,2,0,0
+Monaco,Monaco,3/11/20,1,0,0
+Armenia,Armenia,3/11/20,1,0,0
+Mongolia,Mongolia,3/11/20,1,0,0
+Democratic Republic of the Congo,Democratic Republic of the Congo,3/11/20,1,0,0
+Ukraine,Ukraine,3/11/20,1,0,0
+Bhutan,Bhutan,3/11/20,1,0,0
+Nepal,Nepal,3/11/20,1,0,1
+Togo,Togo,3/11/20,1,0,0
+Jordan,Jordan,3/11/20,1,0,0
+Jamaica,Jamaica,3/11/20,2,0,0
+Liechtenstein,Liechtenstein,3/11/20,1,0,0
+Vatican City,Vatican City,3/11/20,1,0,0
+Turkey,Turkey,3/11/20,1,0,0
+Andorra,Andorra,3/11/20,1,0,0
+Burkina Faso,Burkina Faso,3/11/20,2,0,0
+Martinique,Martinique,3/11/20,3,0,0
+French Guiana,French Guiana,3/11/20,5,0,0
+Reunion,Reunion,3/11/20,1,0,0
+Diamond Princess,USA,3/11/20,46,0,0
+Wuhan Evacuee,USA,3/11/20,3,0,0
+Grand Princess,USA,3/11/20,21,0,0
+Washington,USA,3/11/20,373,30,1
+New York,USA,3/11/20,218,0,0
+California,USA,3/11/20,177,4,2
+Massachusetts,USA,3/11/20,95,0,1
+Colorado,USA,3/11/20,34,0,0
+Georgia,USA,3/11/20,31,0,0
+Florida,USA,3/11/20,29,2,0
+Illinois,USA,3/11/20,25,0,2
+New Jersey,USA,3/11/20,23,1,0
+Texas,USA,3/11/20,22,0,0
+Oregon,USA,3/11/20,19,0,0
+Pennsylvania,USA,3/11/20,16,0,0
+Iowa,USA,3/11/20,14,0,0
+Louisiana,USA,3/11/20,13,0,0
+Maryland,USA,3/11/20,12,0,0
+Indiana,USA,3/11/20,11,0,0
+South Carolina,USA,3/11/20,10,0,0
+District of Columbia,USA,3/11/20,10,0,0
+Arizona,USA,3/11/20,9,0,1
+North Carolina,USA,3/11/20,9,0,0
+Tennessee,USA,3/11/20,9,0,0
+Virginia,USA,3/11/20,9,0,0
+Kentucky,USA,3/11/20,8,0,0
+South Dakota,USA,3/11/20,8,1,0
+Nevada,USA,3/11/20,7,0,0
+Wisconsin,USA,3/11/20,6,0,1
+Rhode Island,USA,3/11/20,5,0,0
+New Hampshire,USA,3/11/20,5,0,0
+Minnesota,USA,3/11/20,5,0,0
+Nebraska,USA,3/11/20,5,0,0
+Ohio,USA,3/11/20,4,0,0
+New Mexico,USA,3/11/20,3,0,0
+Others (repatriated from Wuhan),USA,3/11/20,3,0,0
+Utah,USA,3/11/20,3,0,0
+Connecticut,USA,3/11/20,3,0,0
+Oklahoma,USA,3/11/20,2,0,0
+Hawaii,USA,3/11/20,2,0,0
+Vermont,USA,3/11/20,2,0,0
+Michigan,USA,3/11/20,2,0,0
+Kansas,USA,3/11/20,1,0,0
+Missouri,USA,3/11/20,1,0,0
+Arkansas,USA,3/11/20,1,0,0
+Montana,USA,3/11/20,1,0,0
+Delaware,USA,3/11/20,1,0,0
+Mississippi,USA,3/11/20,1,0,0
+Wyoming,USA,3/11/20,1,0,0
+North Dakota,USA,3/11/20,1,0,0

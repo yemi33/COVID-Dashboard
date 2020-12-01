@@ -1,0 +1,70 @@
+name,Region,Last Update,Confirmed,Deaths,Recovered
+Hubei,Mainland China,2/23/20,64287,2495,16738
+Guangdong,Mainland China,2/23/20,1345,6,772
+Henan,Mainland China,2/23/20,1271,19,930
+Zhejiang,Mainland China,2/23/20,1205,1,765
+Hunan,Mainland China,2/23/20,1016,4,721
+Anhui,Mainland China,2/23/20,989,6,692
+Jiangxi,Mainland China,2/23/20,934,1,645
+Shandong,Mainland China,2/23/20,755,4,325
+Jiangsu,Mainland China,2/23/20,631,0,427
+Chongqing,Mainland China,2/23/20,575,6,335
+Sichuan,Mainland China,2/23/20,527,3,263
+Heilongjiang,Mainland China,2/23/20,480,12,224
+Beijing,Mainland China,2/23/20,399,4,198
+Shanghai,Mainland China,2/23/20,335,3,249
+Hebei,Mainland China,2/23/20,311,6,221
+Fujian,Mainland China,2/23/20,293,1,174
+Guangxi,Mainland China,2/23/20,251,2,107
+Shaanxi,Mainland China,2/23/20,245,1,162
+Yunnan,Mainland China,2/23/20,174,2,115
+Hainan,Mainland China,2/23/20,168,5,106
+Guizhou,Mainland China,2/23/20,146,2,102
+Tianjin,Mainland China,2/23/20,135,3,81
+Shanxi,Mainland China,2/23/20,132,0,88
+Liaoning,Mainland China,2/23/20,121,1,73
+Gansu,Mainland China,2/23/20,91,2,78
+Jilin,Mainland China,2/23/20,93,1,54
+Xinjiang Uygur,Mainland China,2/23/20,76,2,28
+Nei Mongol,Mainland China,2/23/20,75,0,30
+Hong Kong,Hong Kong,2/23/20,74,2,11
+Ningxia,Mainland China,2/23/20,71,0,57
+Taiwan,Taiwan,2/23/20,28,1,2
+Qinghai,Mainland China,2/23/20,18,0,18
+Macau,Macau,2/23/20,10,0,6
+Xizang,Mainland China,2/23/20,1,0,1
+Others,Japan (Diamond Princess),2/23/20,691,3,0
+Japan,Japan,2/23/20,147,1,22
+South Korea,South Korea,2/23/20,763,7,12
+Italy,Italy,2/23/20,157,3,2
+Singapore,Singapore,2/23/20,89,0,51
+Iran,Iran,2/23/20,43,8,0
+Thailand,Thailand,2/23/20,35,0,17
+Malaysia,Malaysia,2/23/20,22,0,15
+Australia,Australia,2/23/20,22,0,11
+Vietnam,Vietnam,2/23/20,16,0,15
+Germany,Germany,2/23/20,16,0,14
+United Kingdom,United Kingdom,2/23/20,13,0,8
+United Arab Emirates,United Arab Emirates,2/23/20,13,0,4
+France,France,2/23/20,12,1,4
+Canada,Canada,2/23/20,9,0,4
+Philippines,Philippines,2/23/20,3,1,1
+India,India,2/23/20,3,0,3
+Russia,Russia,2/23/20,2,0,2
+Spain,Spain,2/23/20,2,0,0
+Belgium,Belgium,2/23/20,1,0,1
+Cambodia,Cambodia,2/23/20,1,0,1
+Finland,Finland,2/23/20,1,0,1
+Nepal,Nepal,2/23/20,1,0,1
+Sri Lanka,Sri Lanka,2/23/20,1,0,1
+Sweden,Sweden,2/23/20,1,0,0
+Egypt,Egypt,2/23/20,1,0,0
+Israel,Israel,2/23/20,1,0,0
+Lebanon,Lebanon,2/23/20,1,0,0
+Unknown location US,USA (all are repatriated cases),2/23/20,18,0,0
+California,USA,2/23/20,10,0,2
+Illinois,USA,2/23/20,2,0,2
+Arizona,USA,2/23/20,1,0,0
+Massachusetts,USA,2/23/20,1,0,0
+Washington,USA,2/23/20,1,0,1
+Wisconsin,USA,2/23/20,1,0,0

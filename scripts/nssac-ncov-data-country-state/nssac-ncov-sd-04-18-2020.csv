@@ -1,0 +1,299 @@
+name,Region,Last Update,Confirmed,Deaths,Recovered
+Hubei,Mainland China,4/18/20,68128,4512,63507
+Guangdong,Mainland China,4/18/20,1579,8,1482
+Henan,Mainland China,4/18/20,1276,22,1254
+Zhejiang,Mainland China,4/18/20,1268,1,1246
+Hunan,Mainland China,4/18/20,1019,4,1014
+Anhui,Mainland China,4/18/20,991,6,984
+Jiangxi,Mainland China,4/18/20,937,1,936
+Shandong,Mainland China,4/18/20,787,7,761
+Jiangsu,Mainland China,4/18/20,653,0,643
+Chongqing,Mainland China,4/18/20,579,6,570
+Sichuan,Mainland China,4/18/20,561,3,553
+Beijing,Mainland China,4/18/20,593,8,509
+Heilongjiang,Mainland China,4/18/20,892,13,472
+Shanghai,Mainland China,4/18/20,628,7,512
+Hebei,Mainland China,4/18/20,328,6,316
+Hong Kong,Hong Kong,4/18/20,1024,4,568
+Fujian,Mainland China,4/18/20,355,1,336
+Guangxi,Mainland China,4/18/20,254,2,252
+Shaanxi,Mainland China,4/18/20,256,3,252
+Yunnan,Mainland China,4/18/20,184,2,177
+Taiwan,Taiwan,4/18/20,398,6,178
+Hainan,Mainland China,4/18/20,168,6,162
+Guizhou,Mainland China,4/18/20,146,2,144
+Tianjin,Mainland China,4/18/20,189,3,173
+Gansu,Mainland China,4/18/20,139,2,137
+Shanxi,Mainland China,4/18/20,197,0,135
+Liaoning,Mainland China,4/18/20,146,2,140
+Jilin,Mainland China,4/18/20,102,1,97
+Xinjiang Uygur,Mainland China,4/18/20,76,3,73
+Nei Mongol,Mainland China,4/18/20,193,1,103
+Ningxia,Mainland China,4/18/20,75,0,75
+Macau,Macau,4/18/20,45,0,16
+Qinghai,Mainland China,4/18/20,18,0,18
+Xizang,Mainland China,4/18/20,1,0,1
+Yemen,Yemen,4/18/20,1,0,0
+Sao Tome and Principe,Sao Tome and Principe,4/18/20,4,0,0
+Saint Pierre and Miquelon,Saint Pierre and Miquelon,4/18/20,1,0,0
+South Sudan,South Sudan,4/18/20,4,0,0
+Falkland Islands (Islas Malvinas),Falkland Islands (Islas Malvinas),4/18/20,2,0,0
+Malawi,Malawi,4/18/20,17,2,0
+Burundi,Burundi,4/18/20,5,0,0
+Sierra Leone,Sierra Leone,4/18/20,30,0,0
+Botswana,Botswana,4/18/20,15,1,0
+Anguilla,Anguilla,4/18/20,3,0,0
+Saint Barthelemy,Saint Barthelemy,4/18/20,6,0,1
+Bermuda,Bermuda,4/18/20,83,5,35
+Faroe Islands,Faroe Islands,4/18/20,184,0,171
+Gibraltar,Gibraltar,4/18/20,132,0,105
+Isle of Man,Isle of Man,4/18/20,297,6,180
+Saint Martin,Saint Martin,4/18/20,37,2,19
+Montserrat,Montserrat,4/18/20,11,0,1
+Mayotte,Mayotte,4/18/20,254,4,117
+New Caledonia,New Caledonia,4/18/20,18,0,1
+Sint Maarten,Sint Maarten,4/18/20,64,9,12
+Turks and Caicos Islands,Turks and Caicos Islands,4/18/20,11,1,0
+Republic of the Congo,Republic of the Congo,4/18/20,143,6,11
+Angola,Angola,4/18/20,24,2,6
+Benin,Benin,4/18/20,35,1,5
+Bahamas,Bahamas,4/18/20,55,9,10
+Belize,Belize,4/18/20,18,2,0
+Barbados,Barbados,4/18/20,75,5,15
+Central African Republic,Central African Republic,4/18/20,12,0,4
+Cabo Verde,Cabo Verde,4/18/20,58,1,1
+Djibouti,Djibouti,4/18/20,732,2,76
+Dominica,Dominica,4/18/20,16,0,8
+Eritrea,Eritrea,4/18/20,39,0,3
+Fiji,Fiji,4/18/20,17,0,0
+Gambia,Gambia,4/18/20,9,1,2
+Guinea-Bissau,Guinea-Bissau,4/18/20,46,0,0
+Equatorial Guinea,Equatorial Guinea,4/18/20,79,0,4
+Grenada,Grenada,4/18/20,14,0,0
+Haiti,Haiti,4/18/20,44,3,0
+Kyrgyzstan,Kyrgyzstan,4/18/20,506,5,130
+Saint Kitts and Nevis,Saint Kitts and Nevis,4/18/20,14,0,0
+Laos,Laos,4/18/20,19,0,0
+Liberia,Liberia,4/18/20,76,7,7
+Libya,Libya,4/18/20,49,1,11
+Madagascar,Madagascar,4/18/20,120,0,35
+Mali,Mali,4/18/20,216,13,41
+Montenegro,Montenegro,4/18/20,307,5,55
+Mozambique,Mozambique,4/18/20,35,0,4
+Mauritius,Mauritius,4/18/20,325,9,180
+Niger,Niger,4/18/20,639,19,113
+Nicaragua,Nicaragua,4/18/20,9,1,0
+Papua New Guinea,Papua New Guinea,4/18/20,7,0,0
+El Salvador,El Salvador,4/18/20,190,7,43
+Somalia,Somalia,4/18/20,135,7,2
+Kosovo,Kosovo,4/18/20,510,12,93
+Syria,Syria,4/18/20,38,2,5
+Chad,Chad,4/18/20,33,0,8
+Timor-Leste,Timor-Leste,4/18/20,18,0,1
+Tanzania,Tanzania,4/18/20,147,5,11
+Uganda,Uganda,4/18/20,56,0,20
+Zambia,Zambia,4/18/20,57,2,33
+Zimbabwe,Zimbabwe,4/18/20,25,3,2
+Iran,Iran,4/18/20,80868,5031,55987
+France,France,4/18/20,147969,18681,34420
+Switzerland,Switzerland,4/18/20,27404,1344,16400
+United Kingdom,United Kingdom,4/18/20,115314,15498,414
+Netherlands,Netherlands,4/18/20,31589,3601,6
+Norway,Norway,4/18/20,7036,163,32
+Portugal,Portugal,4/18/20,19685,687,610
+Sweden,Sweden,4/18/20,13822,1511,550
+Australia,Australia,4/18/20,6539,69,4124
+Denmark,Denmark,4/18/20,7242,346,3847
+Malaysia,Malaysia,4/18/20,5305,88,3102
+Israel,Israel,4/18/20,13265,164,3456
+Turkey,Turkey,4/18/20,82329,1890,10453
+Czech Republic,Czech Republic,4/18/20,6606,181,1227
+Japan,Japan,4/18/20,10296,222,1069
+Ireland,Ireland,4/18/20,14758,571,77
+Pakistan,Pakistan,4/18/20,7638,143,1832
+Luxembourg,Luxembourg,4/18/20,3537,72,601
+Ecuador,Ecuador,4/18/20,9022,456,1008
+Thailand,Thailand,4/18/20,2733,47,1787
+Finland,Finland,4/18/20,3681,90,1700
+Others,Japan (Diamond Princess),4/18/20,706,6,10
+Poland,Poland,4/18/20,8742,347,981
+Iceland,Iceland,4/18/20,1760,9,1291
+Indonesia,Indonesia,4/18/20,6248,535,631
+Romania,Romania,4/18/20,8418,417,1730
+Saudi Arabia,Saudi Arabia,4/18/20,8274,92,1329
+Singapore,Singapore,4/18/20,5992,11,708
+Qatar,Qatar,4/18/20,5008,8,510
+Philippines,Philippines,4/18/20,6087,397,516
+Slovenia,Slovenia,4/18/20,1317,70,190
+Russia,Russia,4/18/20,36793,313,3057
+South Africa,South Africa,4/18/20,3034,50,903
+Estonia,Estonia,4/18/20,1512,38,162
+Bahrain,Bahrain,4/18/20,1773,7,755
+Egypt,Egypt,4/18/20,3032,224,701
+Mexico,Mexico,4/18/20,6875,546,2125
+Croatia,Croatia,4/18/20,1832,39,615
+Panama,Panama,4/18/20,4210,116,122
+Lebanon,Lebanon,4/18/20,672,21,94
+Iraq,Iraq,4/18/20,1513,82,953
+Serbia,Serbia,4/18/20,5994,117,637
+Dominican Republic,Dominican Republic,4/18/20,4335,217,312
+Algeria,Algeria,4/18/20,2534,367,894
+Armenia,Armenia,4/18/20,1248,20,523
+Kuwait,Kuwait,4/18/20,1751,6,280
+Bulgaria,Bulgaria,4/18/20,878,41,153
+Slovakia,Slovakia,4/18/20,1089,11,213
+San Marino,San Marino,4/18/20,455,39,60
+United Arab Emirates,United Arab Emirates,4/18/20,6302,37,1188
+Latvia,Latvia,4/18/20,712,5,88
+Uruguay,Uruguay,4/18/20,508,9,294
+Hungary,Hungary,4/18/20,1834,172,231
+Lithuania,Lithuania,4/18/20,1239,33,228
+Costa Rica,Costa Rica,4/18/20,655,4,97
+North Macedonia,North Macedonia,4/18/20,1170,49,164
+Vietnam,Vietnam,4/18/20,268,0,198
+Andorra,Andorra,4/18/20,704,35,205
+Morocco,Morocco,4/18/20,2685,137,314
+Jordan,Jordan,4/18/20,413,7,269
+Cyprus,Cyprus,4/18/20,761,12,77
+Moldova,Moldova,4/18/20,2378,57,391
+Bosnia and Herzegovina,Bosnia and Herzegovina,4/18/20,1268,47,338
+Malta,Malta,4/18/20,426,3,99
+Albania,Albania,4/18/20,548,26,302
+Brunei,Brunei,4/18/20,137,1,113
+Cambodia,Cambodia,4/18/20,122,0,98
+Sri Lanka,Sri Lanka,4/18/20,254,7,86
+Belarus,Belarus,4/18/20,4779,42,342
+Tunisia,Tunisia,4/18/20,864,37,43
+Burkina Faso,Burkina Faso,4/18/20,565,36,321
+Venezuela,Venezuela,4/18/20,227,9,113
+New Zealand,New Zealand,4/18/20,1422,11,867
+Azerbaijan,Azerbaijan,4/18/20,1373,18,590
+Kazakhstan,Kazakhstan,4/18/20,1615,17,377
+Senegal,Senegal,4/18/20,350,3,211
+Guadeloupe,Guadeloupe,4/18/20,148,8,73
+Oman,Oman,4/18/20,1180,6,176
+Georgia (country),Georgia,4/18/20,388,4,86
+Trinidad and Tobago,Trinidad and Tobago,4/18/20,114,8,20
+Ukraine,Ukraine,4/18/20,5106,133,275
+Reunion,Reunion,4/18/20,407,0,237
+Uzbekistan,Uzbekistan,4/18/20,1490,5,194
+Cameroon,Cameroon,4/18/20,1017,22,177
+Martinique,Martinique,4/18/20,158,8,73
+Liechtenstein,Liechtenstein,4/18/20,79,1,55
+Afghanistan,Afghanistan,4/18/20,933,30,112
+Palestine,Palestine,4/18/20,313,2,69
+Democratic Republic of the Congo,Democratic Republic of the Congo,4/18/20,307,25,26
+Bangladesh,Bangladesh,4/18/20,2144,84,66
+Nigeria,Nigeria,4/18/20,542,19,166
+Honduras,Honduras,4/18/20,457,46,10
+Bolivia,Bolivia,4/18/20,493,31,31
+Paraguay,Paraguay,4/18/20,202,8,35
+Cuba,Cuba,4/18/20,986,32,227
+Ghana,Ghana,4/18/20,834,9,99
+French Guiana,French Guiana,4/18/20,96,0,61
+Rwanda,Rwanda,4/18/20,144,0,69
+Guatemala,Guatemala,4/18/20,235,7,21
+Jamaica,Jamaica,4/18/20,163,5,25
+Togo,Togo,4/18/20,84,5,49
+Kenya,Kenya,4/18/20,262,12,60
+Cote d'Ivoire,Cote d'Ivoire,4/18/20,801,8,239
+Maldives,Maldives,4/18/20,35,0,16
+Monaco,Monaco,4/18/20,94,3,20
+Ethiopia,Ethiopia,4/18/20,105,3,16
+Mongolia,Mongolia,4/18/20,31,0,5
+Guyana,Guyana,4/18/20,63,6,9
+Seychelles,Seychelles,4/18/20,11,0,0
+Suriname,Suriname,4/18/20,10,0,0
+Gabon,Gabon,4/18/20,108,1,7
+French Polynesia,French Polynesia,4/18/20,55,0,0
+Namibia,Namibia,4/18/20,16,0,4
+Bhutan,Bhutan,4/18/20,5,0,2
+Saint Lucia,Saint Lucia,4/18/20,15,0,1
+Sudan,Sudan,4/18/20,66,10,6
+Nepal,Nepal,4/18/20,31,0,2
+Guinea,Guinea,4/18/20,518,3,65
+Aruba,Aruba,4/18/20,96,2,43
+Jersey,Jersey,4/18/20,2,0,0
+Mauritania,Mauritania,4/18/20,7,1,2
+Antigua and Barbuda,Antigua and Barbuda,4/18/20,23,2,0
+Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,4/18/20,12,0,1
+Curacao,Curacao,4/18/20,14,1,10
+Greenland,Greenland,4/18/20,11,0,3
+Guernsey,Guernsey,4/18/20,1,0,0
+Vatican City,Vatican City,4/18/20,8,0,2
+Cayman Islands,Cayman Islands,4/18/20,61,1,7
+India,India,4/18/20,15723,521,2463
+Canada,Canada,4/18/20,33354,1467,11206
+Italy,Italy,4/18/20,175927,23227,44927
+South Korea,South Korea,4/18/20,10653,232,7937
+Spain,Spain,4/18/20,194416,20639,74662
+Austria,Austria,4/18/20,14671,443,10214
+Belgium,Belgium,4/18/20,37183,5453,8348
+Greece,Greece,4/18/20,2235,105,269
+Chile,Chile,4/18/20,9730,126,4035
+Peru,Peru,4/18/20,14420,348,6684
+Argentina,Argentina,4/18/20,2839,132,685
+Brazil,Brazil,4/18/20,36599,2347,14026
+Colombia,Colombia,4/18/20,3621,166,691
+Germany,Germany,4/18/20,144009,4595,85400
+New York,USA,4/18/20,242570,17627,28884
+New Jersey,USA,4/18/20,81599,4249,498
+Massachusetts,USA,4/18/20,36372,1560,1299
+Pennsylvania,USA,4/18/20,31795,1105,373
+California,USA,4/18/20,30812,1148,2740
+Michigan,USA,4/18/20,30791,2308,3237
+Illinois,USA,4/18/20,29161,1259,606
+Florida,USA,4/18/20,25492,748,174
+Louisiana,USA,4/18/20,23580,1267,0
+Texas,USA,4/18/20,18905,483,4806
+Georgia,USA,4/18/20,17841,677,340
+Connecticut,USA,4/18/20,17550,1086,63
+Maryland,USA,4/18/20,12326,537,771
+Washington,USA,4/18/20,12064,630,1765
+Indiana,USA,4/18/20,10641,545,173
+Ohio,USA,4/18/20,10222,451,448
+Colorado,USA,4/18/20,9440,413,529
+Virginia,USA,4/18/20,8053,258,721
+Tennessee,USA,4/18/20,6762,146,3234
+North Carolina,USA,4/18/20,6376,191,1177
+Missouri,USA,4/18/20,5596,198,511
+US Military,USA,4/18/20,4849,19,1110
+Arizona,USA,4/18/20,4724,180,6
+Alabama,USA,4/18/20,4723,147,0
+Rhode Island,USA,4/18/20,4491,137,0
+South Carolina,USA,4/18/20,4248,119,0
+Wisconsin,USA,4/18/20,4199,212,194
+Mississippi,USA,4/18/20,3974,152,0
+Nevada,USA,4/18/20,3644,151,1770
+Utah,USA,4/18/20,2933,25,220
+Kentucky,USA,4/18/20,2707,144,979
+District of Columbia,USA,4/18/20,2666,91,608
+Oklahoma,USA,4/18/20,2570,139,1534
+Delaware,USA,4/18/20,2538,67,466
+Iowa,USA,4/18/20,2513,74,1095
+Minnesota,USA,4/18/20,2213,121,1118
+Kansas,USA,4/18/20,1854,86,421
+Oregon,USA,4/18/20,1844,72,42
+New Mexico,USA,4/18/20,1798,53,465
+Arkansas,USA,4/18/20,1777,38,726
+Idaho,USA,4/18/20,1668,44,520
+South Dakota,USA,4/18/20,1542,7,552
+New Hampshire,USA,4/18/20,1342,38,513
+Nebraska,USA,4/18/20,1287,28,0
+Navajo Nation,USA,4/18/20,1127,44,0
+Puerto Rico,USA,4/18/20,1118,60,0
+Maine,USA,4/18/20,847,32,382
+West Virginia,USA,4/18/20,826,18,255
+Vermont,USA,4/18/20,803,38,0
+Federal Bureau of Prisons,USA,4/18/20,784,21,171
+Hawaii,USA,4/18/20,574,9,390
+North Dakota,USA,4/18/20,528,9,183
+Montana,USA,4/18/20,426,10,243
+Alaska,USA,4/18/20,314,9,128
+Wyoming,USA,4/18/20,309,2,227
+Guam,USA,4/18/20,136,5,97
+Grand Princess,USA,4/18/20,103,3,0
+United States Virgin Islands,USA,4/18/20,53,3,46
+Diamond Princess,USA,4/18/20,49,0,0
+Northern Mariana Islands,USA,4/18/20,14,2,9
+Wuhan Evacuee,USA,4/18/20,4,0,0

@@ -1,0 +1,171 @@
+name,Region,Last Update,Confirmed,Deaths,Recovered
+Hubei,Mainland China,3/7/20,67707,2986,45011
+Guangdong,Mainland China,3/7/20,1352,7,1233
+Henan,Mainland China,3/7/20,1272,22,1243
+Zhejiang,Mainland China,3/7/20,1215,1,1149
+Hunan,Mainland China,3/7/20,1018,4,959
+Anhui,Mainland China,3/7/20,990,6,979
+Jiangxi,Mainland China,3/7/20,935,1,916
+Shandong,Mainland China,3/7/20,758,6,625
+Jiangsu,Mainland China,3/7/20,631,0,601
+Chongqing,Mainland China,3/7/20,576,6,520
+Sichuan,Mainland China,3/7/20,539,3,448
+Heilongjiang,Mainland China,3/7/20,481,13,402
+Beijing,Mainland China,3/7/20,428,8,308
+Shanghai,Mainland China,3/7/20,342,3,306
+Hebei,Mainland China,3/7/20,318,6,305
+Fujian,Mainland China,3/7/20,296,1,284
+Guangxi,Mainland China,3/7/20,252,2,219
+Shaanxi,Mainland China,3/7/20,245,1,226
+Yunnan,Mainland China,3/7/20,174,2,170
+Hainan,Mainland China,3/7/20,168,6,158
+Guizhou,Mainland China,3/7/20,146,2,115
+Tianjin,Mainland China,3/7/20,136,3,128
+Shanxi,Mainland China,3/7/20,133,0,126
+Liaoning,Mainland China,3/7/20,125,1,106
+Gansu,Mainland China,3/7/20,120,2,87
+Hong Kong,Hong Kong,3/7/20,109,2,55
+Jilin,Mainland China,3/7/20,93,1,90
+Xinjiang Uygur,Mainland China,3/7/20,76,3,71
+Nei Mongol,Mainland China,3/7/20,75,1,65
+Ningxia,Mainland China,3/7/20,75,0,71
+Taiwan,Taiwan,3/7/20,45,1,12
+Qinghai,Mainland China,3/7/20,18,0,18
+Macau,Macau,3/7/20,10,0,10
+Xizang,Mainland China,3/7/20,1,0,1
+Saint Barthelemy,Saint Barthelemy,3/7/20,3,0,0
+Faroe Islands,Faroe Islands,3/7/20,1,0,0
+Gibraltar,Gibraltar,3/7/20,1,0,0
+South Korea,South Korea,3/7/20,7134,50,118
+Italy,Italy,3/7/20,5883,233,589
+Iran,Iran,3/7/20,5823,145,1669
+France,France,3/7/20,949,11,12
+Germany,Germany,3/7/20,836,0,16
+Others,Japan (Diamond Princess),3/7/20,706,6,10
+Japan,Japan,3/7/20,461,6,76
+Spain,Spain,3/7/20,525,10,30
+Switzerland,Switzerland,3/7/20,268,1,3
+United Kingdom,United Kingdom,3/7/20,209,2,18
+Netherlands,Netherlands,3/7/20,188,1,1
+Belgium,Belgium,3/7/20,169,0,1
+Sweden,Sweden,3/7/20,161,0,0
+Norway,Norway,3/7/20,156,0,0
+Singapore,Singapore,3/7/20,138,0,82
+Malaysia,Malaysia,3/7/20,93,0,23
+Bahrain,Bahrain,3/7/20,85,0,4
+Austria,Austria,3/7/20,81,0,0
+Greece,Greece,3/7/20,66,0,0
+Australia,Australia,3/7/20,63,2,21
+Kuwait,Kuwait,3/7/20,61,0,0
+Canada,Canada,3/7/20,60,0,6
+Iraq,Iraq,3/7/20,54,4,0
+Thailand,Thailand,3/7/20,50,1,31
+Iceland,Iceland,3/7/20,50,0,0
+United Arab Emirates,United Arab Emirates,3/7/20,45,0,7
+India,India,3/7/20,34,0,3
+Denmark,Denmark,3/7/20,23,0,0
+Palestine,Palestine,3/7/20,22,0,0
+Israel,Israel,3/7/20,21,0,2
+San Marino,San Marino,3/7/20,23,1,0
+Czech Republic,Czech Republic,3/7/20,19,0,0
+Ireland,Ireland,3/7/20,18,0,0
+Algeria,Algeria,3/7/20,17,0,0
+Vietnam,Vietnam,3/7/20,18,0,16
+Lebanon,Lebanon,3/7/20,22,0,1
+Oman,Oman,3/7/20,16,0,2
+Finland,Finland,3/7/20,15,0,1
+Egypt,Egypt,3/7/20,15,0,0
+Ecuador,Ecuador,3/7/20,13,0,0
+Brazil,Brazil,3/7/20,13,0,0
+Portugal,Portugal,3/7/20,20,0,0
+Russia,Russia,3/7/20,13,0,2
+Croatia,Croatia,3/7/20,12,0,0
+Estonia,Estonia,3/7/20,10,0,0
+Romania,Romania,3/7/20,9,0,3
+Azerbaijan,Azerbaijan,3/7/20,9,0,0
+Qatar,Qatar,3/7/20,8,0,0
+Argentina,Argentina,3/7/20,9,1,0
+Pakistan,Pakistan,3/7/20,6,0,0
+Slovenia,Slovenia,3/7/20,7,0,0
+Chile,Chile,3/7/20,7,0,0
+Belarus,Belarus,3/7/20,6,0,0
+Mexico,Mexico,3/7/20,6,0,0
+Saudi Arabia,Saudi Arabia,3/7/20,5,0,0
+Philippines,Philippines,3/7/20,6,1,1
+Poland,Poland,3/7/20,5,0,0
+New Zealand,New Zealand,3/7/20,5,0,0
+Indonesia,Indonesia,3/7/20,4,0,0
+Senegal,Senegal,3/7/20,4,0,0
+Georgia (country),Georgia,3/7/20,4,0,0
+Malta,Malta,3/7/20,3,0,0
+Bosnia and Herzegovina,Bosnia and Herzegovina,3/7/20,3,0,0
+Dominican Republic,Dominican Republic,3/7/20,2,0,0
+Luxembourg,Luxembourg,3/7/20,2,0,0
+Morocco,Morocco,3/7/20,2,0,0
+Hungary,Hungary,3/7/20,4,0,0
+Cambodia,Cambodia,3/7/20,1,0,1
+Nepal,Nepal,3/7/20,1,0,1
+Sri Lanka,Sri Lanka,3/7/20,1,0,1
+Afghanistan,Afghanistan,3/7/20,1,0,0
+North Macedonia,North Macedonia,3/7/20,3,0,0
+Nigeria,Nigeria,3/7/20,1,0,0
+Lithuania,Lithuania,3/7/20,1,0,0
+Monaco,Monaco,3/7/20,1,0,0
+Armenia,Armenia,3/7/20,1,0,0
+Andorra,Andorra,3/7/20,1,0,0
+Jordan,Jordan,3/7/20,1,0,0
+Tunisia,Tunisia,3/7/20,1,0,0
+Latvia,Latvia,3/7/20,1,0,0
+Ukraine,Ukraine,3/7/20,1,0,0
+Liechtenstein,Liechtenstein,3/7/20,1,0,0
+South Africa,South Africa,3/7/20,1,0,0
+Costa Rica,Costa Rica,3/7/20,1,0,0
+Serbia,Serbia,3/7/20,1,0,0
+Cameroon,Cameroon,3/7/20,1,0,0
+Bhutan,Bhutan,3/7/20,1,0,0
+Peru,Peru,3/7/20,6,0,0
+Slovakia,Slovakia,3/7/20,1,0,0
+Togo,Togo,3/7/20,1,0,0
+Vatican City,Vatican City,3/7/20,1,0,0
+Colombia,Colombia,3/7/20,1,0,0
+Maldives,Maldives,3/7/20,2,0,0
+Paraguay,Paraguay,3/7/20,1,0,0
+Moldova,Moldova,3/7/20,1,0,0
+Martinique,Martinique,3/7/20,2,0,0
+French Guiana,French Guiana,3/7/20,5,0,0
+Diamond Princess,USA,3/7/20,45,0,0
+Wuhan Evacuee,USA,3/7/20,3,0,0
+Grand Princess,USA,3/7/20,21,0,0
+Washington,USA,3/7/20,108,16,1
+California,USA,3/7/20,84,1,2
+New York,USA,3/7/20,89,0,0
+Massachusetts,USA,3/7/20,14,0,1
+Illinois,USA,3/7/20,6,0,2
+Texas,USA,3/7/20,9,0,0
+Florida,USA,3/7/20,11,2,0
+New Jersey,USA,3/7/20,4,0,0
+Arizona,USA,3/7/20,5,0,1
+Wisconsin,USA,3/7/20,1,0,1
+Oregon,USA,3/7/20,7,0,0
+Rhode Island,USA,3/7/20,3,0,0
+New Hampshire,USA,3/7/20,2,0,0
+Georgia,USA,3/7/20,5,0,0
+North Carolina,USA,3/7/20,2,0,0
+Tennessee,USA,3/7/20,1,0,0
+Nevada,USA,3/7/20,2,0,0
+Colorado,USA,3/7/20,8,0,0
+Maryland,USA,3/7/20,3,0,0
+Pennsylvania,USA,3/7/20,4,0,0
+Indiana,USA,3/7/20,1,0,0
+Minnesota,USA,3/7/20,1,0,0
+Kentucky,USA,3/7/20,1,0,0
+Oklahoma,USA,3/7/20,1,0,0
+Connecticut,USA,3/7/20,1,0,0
+South Carolina,USA,3/7/20,2,0,0
+Hawaii,USA,3/7/20,1,0,0
+Utah,USA,3/7/20,1,0,0
+Nebraska,USA,3/7/20,1,0,0
+District of Columbia,USA,3/7/20,1,0,0
+Kansas,USA,3/7/20,1,0,0
+Virginia,USA,3/7/20,1,0,0
+Missouri,USA,3/7/20,1,0,0

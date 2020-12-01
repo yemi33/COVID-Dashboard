@@ -1,0 +1,141 @@
+name,Region,Last Update,Confirmed,Deaths,Recovered
+Hubei,Mainland China,3/5/20,67592,2931,41966
+Guangdong,Mainland China,3/5/20,1351,7,1209
+Henan,Mainland China,3/5/20,1272,22,1241
+Zhejiang,Mainland China,3/5/20,1215,1,1141
+Hunan,Mainland China,3/5/20,1018,4,946
+Anhui,Mainland China,3/5/20,990,6,970
+Jiangxi,Mainland China,3/5/20,935,1,908
+Shandong,Mainland China,3/5/20,758,6,602
+Jiangsu,Mainland China,3/5/20,631,0,588
+Chongqing,Mainland China,3/5/20,576,6,512
+Sichuan,Mainland China,3/5/20,539,3,428
+Heilongjiang,Mainland China,3/5/20,481,13,380
+Beijing,Mainland China,3/5/20,422,8,298
+Shanghai,Mainland China,3/5/20,339,3,303
+Hebei,Mainland China,3/5/20,318,6,304
+Fujian,Mainland China,3/5/20,296,1,278
+Guangxi,Mainland China,3/5/20,252,2,217
+Shaanxi,Mainland China,3/5/20,245,1,224
+Yunnan,Mainland China,3/5/20,174,2,169
+Hainan,Mainland China,3/5/20,168,6,158
+Guizhou,Mainland China,3/5/20,146,2,114
+Tianjin,Mainland China,3/5/20,136,3,128
+Shanxi,Mainland China,3/5/20,133,0,126
+Liaoning,Mainland China,3/5/20,125,1,106
+Hong Kong,Hong Kong,3/5/20,105,2,46
+Jilin,Mainland China,3/5/20,93,1,88
+Gansu,Mainland China,3/5/20,102,2,87
+Xinjiang Uygur,Mainland China,3/5/20,76,3,70
+Nei Mongol,Mainland China,3/5/20,75,1,65
+Ningxia,Mainland China,3/5/20,75,0,69
+Taiwan,Taiwan,3/5/20,44,1,12
+Qinghai,Mainland China,3/5/20,18,0,18
+Macau,Macau,3/5/20,10,0,9
+Xizang,Mainland China,3/5/20,1,0,1
+Saint Barthelemy,Saint Barthelemy,3/5/20,3,0,0
+Faroe Islands,Faroe Islands,3/5/20,1,0,0
+Gibraltar,Gibraltar,3/5/20,1,0,0
+South Korea,South Korea,3/5/20,6284,42,135
+Italy,Italy,3/5/20,3858,148,414
+Iran,Iran,3/5/20,3513,108,739
+Others,Japan (Diamond Princess),3/5/20,706,6,10
+Germany,Germany,3/5/20,560,0,16
+France,France,3/5/20,423,7,12
+Japan,Japan,3/5/20,359,6,48
+Spain,Spain,3/5/20,282,3,2
+Switzerland,Switzerland,3/5/20,119,1,3
+Singapore,Singapore,3/5/20,117,0,81
+United Kingdom,United Kingdom,3/5/20,116,1,8
+Netherlands,Netherlands,3/5/20,82,0,0
+Sweden,Sweden,3/5/20,94,0,0
+Norway,Norway,3/5/20,91,0,0
+Kuwait,Kuwait,3/5/20,58,0,0
+Australia,Australia,3/5/20,58,2,21
+Bahrain,Bahrain,3/5/20,55,0,0
+Belgium,Belgium,3/5/20,50,0,1
+Malaysia,Malaysia,3/5/20,50,0,21
+Thailand,Thailand,3/5/20,47,1,31
+Austria,Austria,3/5/20,43,0,0
+Iraq,Iraq,3/5/20,35,2,0
+Canada,Canada,3/5/20,37,0,6
+Iceland,Iceland,3/5/20,34,0,0
+Greece,Greece,3/5/20,31,0,0
+India,India,3/5/20,30,0,3
+United Arab Emirates,United Arab Emirates,3/5/20,29,0,5
+San Marino,San Marino,3/5/20,21,1,0
+Algeria,Algeria,3/5/20,17,0,0
+Lebanon,Lebanon,3/5/20,16,0,1
+Vietnam,Vietnam,3/5/20,16,0,16
+Oman,Oman,3/5/20,16,0,2
+Israel,Israel,3/5/20,16,0,2
+Denmark,Denmark,3/5/20,15,0,0
+Ecuador,Ecuador,3/5/20,13,0,0
+Finland,Finland,3/5/20,12,0,1
+Croatia,Croatia,3/5/20,10,0,0
+Qatar,Qatar,3/5/20,8,0,0
+Czech Republic,Czech Republic,3/5/20,12,0,0
+Portugal,Portugal,3/5/20,8,0,0
+Belarus,Belarus,3/5/20,6,0,0
+Romania,Romania,3/5/20,6,0,0
+Ireland,Ireland,3/5/20,6,0,0
+Azerbaijan,Azerbaijan,3/5/20,6,0,0
+Mexico,Mexico,3/5/20,5,0,0
+Pakistan,Pakistan,3/5/20,5,0,0
+Saudi Arabia,Saudi Arabia,3/5/20,5,0,0
+New Zealand,New Zealand,3/5/20,4,0,0
+Brazil,Brazil,3/5/20,8,0,0
+Russia,Russia,3/5/20,4,0,2
+Palestine,Palestine,3/5/20,4,0,0
+Georgia (country),Georgia,3/5/20,4,0,0
+Philippines,Philippines,3/5/20,3,1,1
+Chile,Chile,3/5/20,4,0,0
+Egypt,Egypt,3/5/20,3,0,0
+Indonesia,Indonesia,3/5/20,2,0,0
+Senegal,Senegal,3/5/20,4,0,0
+Cambodia,Cambodia,3/5/20,1,0,1
+Nepal,Nepal,3/5/20,1,0,1
+Sri Lanka,Sri Lanka,3/5/20,1,0,1
+Afghanistan,Afghanistan,3/5/20,1,0,0
+North Macedonia,North Macedonia,3/5/20,1,0,0
+Estonia,Estonia,3/5/20,3,0,0
+Nigeria,Nigeria,3/5/20,1,0,0
+Lithuania,Lithuania,3/5/20,1,0,0
+Monaco,Monaco,3/5/20,1,0,0
+Luxembourg,Luxembourg,3/5/20,2,0,0
+Dominican Republic,Dominican Republic,3/5/20,1,0,0
+Armenia,Armenia,3/5/20,1,0,0
+Andorra,Andorra,3/5/20,1,0,0
+Jordan,Jordan,3/5/20,1,0,0
+Tunisia,Tunisia,3/5/20,1,0,0
+Latvia,Latvia,3/5/20,1,0,0
+Morocco,Morocco,3/5/20,2,0,0
+Ukraine,Ukraine,3/5/20,1,0,0
+Argentina,Argentina,3/5/20,2,0,0
+Liechtenstein,Liechtenstein,3/5/20,1,0,0
+Poland,Poland,3/5/20,1,0,0
+Hungary,Hungary,3/5/20,2,0,0
+Slovenia,Slovenia,3/5/20,2,0,0
+Bosnia and Herzegovina,Bosnia and Herzegovina,3/5/20,2,0,0
+South Africa,South Africa,3/5/20,1,0,0
+Costa Rica,Costa Rica,3/5/20,1,0,0
+Unknown location US,USA (all are repatriated cases),3/5/20,48,0,0
+California,USA,3/5/20,49,1,2
+Washington,USA,3/5/20,75,11,1
+Illinois,USA,3/5/20,5,0,2
+Texas,USA,3/5/20,3,0,0
+Arizona,USA,3/5/20,2,0,1
+Massachusetts,USA,3/5/20,4,0,0
+Wisconsin,USA,3/5/20,1,0,0
+Oregon,USA,3/5/20,3,0,0
+Rhode Island,USA,3/5/20,2,0,0
+New York,USA,3/5/20,22,0,0
+Florida,USA,3/5/20,4,0,0
+New Hampshire,USA,3/5/20,2,0,0
+Georgia,USA,3/5/20,2,0,0
+North Carolina,USA,3/5/20,1,0,0
+New Jersey,USA,3/5/20,2,0,0
+Tennessee,USA,3/5/20,1,0,0
+Nevada,USA,3/5/20,1,0,0
+Colorado,USA,3/5/20,2,0,0
+Maryland,USA,3/5/20,3,0,0

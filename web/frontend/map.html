@@ -1,0 +1,63 @@
+<link rel="stylesheet" type="text/css" href="/static/map.css">
+<head>
+    <title>COVID-19 Data</title>
+</head>
+
+<body>
+  <img id = logo src ="/static/carletonLogo.png" alt = "Carleton Logo"></i>
+    <h1> 
+      Spring 2020 US COVID-19 Cases
+    </h1>
+  
+  <!--Navigation-->
+  <nav>
+    <ul>
+        <li><a class="home" href="home.html">Home</a></li>
+        <li><a class="dropbtn active" href="about.html">Data Set</a>
+          <ul class="dropdown-content">
+              <li><a href="map.html">Results</a></li>
+              <li><a href="about.html">About Data</a></li>
+            </ul>
+        </li> 
+        <li><a href="#about">About COVID-19</a></li>
+        <li><a href="#positive">Helpful Guide</a></li>
+    </ul>
+  </nav>
+
+  <!--Picture-->
+  <img class="img" src="/static/current_graph.png" alt="graph">
+  
+  <!--Side Navigation-->
+  <div class="sidenav">
+    <div class="text-in-menu">
+      <h2> Variables  </h2>
+      <p> Active <input type="checkbox" id="active_check"></p>
+      <p> Recovered <input type="checkbox" id="revocerd_check"></p>
+      <p> Total <input type="checkbox" id="total_check"></p>
+      <button class="dropdown-sidebar">States <input type="checkbox" id="allstates_check"></p>
+        <i class="fa fa-caret-down"></i>
+      </button>
+    <div class="dropdown-container">
+      <p> Alabama <input type="checkbox" id="alabama_check"></p>
+      <p> Alaska <input type="checkbox" id="alaska_check"></p>
+      <p> Arizona <input type="checkbox" id="arizona_check"></p>
+      <p> Arkansas <input type="checkbox" id="arkansas_check"></p>
+      <p> California <input type="checkbox" id="california_check"></p>
+      <p> Colorado <input type="checkbox" id="colorado_check"></p>
+      <p> Colorado <input type="checkbox" id="colorado_check"></p>
+      <p>would continue with all states in drop down menu from button (but needs java script for button part)</p>
+    </div>
+    <div class="Time Frame:">
+      <h3> Time </h3>
+      <label for="startdate">Start date:</label><br>
+      <input type="date" id="startdate" name="startdate"><br>
+      <label for="enddate">End date:</label><br>
+      <input type="date" id="enddate" name="enddate">
+    </div>
+    <div class="map_chart">
+      <a class="graph" href="#Graph">Graph</a>
+      <a class="map" href="#Map">Map</a>
+    </div>
+  </div>
+</body>
+

@@ -1,0 +1,224 @@
+name,Region,Last Update,Confirmed,Deaths,Recovered
+Hubei,Mainland China,3/13/20,67790,3075,52943
+Guangdong,Mainland China,3/13/20,1356,8,1299
+Henan,Mainland China,3/13/20,1273,22,1249
+Zhejiang,Mainland China,3/13/20,1227,1,1211
+Hunan,Mainland China,3/13/20,1018,4,1009
+Anhui,Mainland China,3/13/20,990,6,984
+Jiangxi,Mainland China,3/13/20,935,1,934
+Shandong,Mainland China,3/13/20,760,7,740
+Jiangsu,Mainland China,3/13/20,631,0,630
+Chongqing,Mainland China,3/13/20,576,6,566
+Sichuan,Mainland China,3/13/20,539,3,510
+Heilongjiang,Mainland China,3/13/20,482,13,447
+Beijing,Mainland China,3/13/20,437,8,349
+Shanghai,Mainland China,3/13/20,350,3,324
+Hebei,Mainland China,3/13/20,318,6,310
+Fujian,Mainland China,3/13/20,296,1,295
+Guangxi,Mainland China,3/13/20,252,2,243
+Shaanxi,Mainland China,3/13/20,245,2,232
+Yunnan,Mainland China,3/13/20,174,2,170
+Hainan,Mainland China,3/13/20,168,6,160
+Guizhou,Mainland China,3/13/20,146,2,143
+Tianjin,Mainland China,3/13/20,136,3,132
+Shanxi,Mainland China,3/13/20,133,0,133
+Hong Kong,Hong Kong,3/13/20,134,4,77
+Gansu,Mainland China,3/13/20,129,2,88
+Liaoning,Mainland China,3/13/20,125,1,113
+Jilin,Mainland China,3/13/20,93,1,91
+Xinjiang Uygur,Mainland China,3/13/20,76,3,73
+Nei Mongol,Mainland China,3/13/20,75,1,71
+Ningxia,Mainland China,3/13/20,75,0,72
+Taiwan,Taiwan,3/13/20,50,1,20
+Qinghai,Mainland China,3/13/20,18,0,18
+Macau,Macau,3/13/20,10,0,10
+Xizang,Mainland China,3/13/20,1,0,1
+Antigua and Barbuda,Antigua and Barbuda,3/13/20,1,0,0
+Saint Barthelemy,Saint Barthelemy,3/13/20,1,0,0
+Faroe Islands,Faroe Islands,3/13/20,2,0,0
+Gibraltar,Gibraltar,3/13/20,1,0,0
+Guyana,Guyana,3/13/20,1,1,0
+Saint Martin,Saint Martin,3/13/20,2,0,0
+Italy,Italy,3/13/20,17660,1266,1439
+Iran,Iran,3/13/20,11364,514,2959
+South Korea,South Korea,3/13/20,8086,72,510
+Spain,Spain,3/13/20,5232,133,193
+Germany,Germany,3/13/20,3874,8,46
+France,France,3/13/20,3667,79,12
+Switzerland,Switzerland,3/13/20,1139,11,4
+Netherlands,Netherlands,3/13/20,804,10,0
+Norway,Norway,3/13/20,996,1,1
+Denmark,Denmark,3/13/20,804,0,1
+Others,Japan (Diamond Princess),3/13/20,706,6,10
+Japan,Japan,3/13/20,725,19,118
+Sweden,Sweden,3/13/20,814,1,1
+United Kingdom,United Kingdom,3/13/20,801,8,19
+Belgium,Belgium,3/13/20,559,3,1
+Austria,Austria,3/13/20,504,1,6
+Qatar,Qatar,3/13/20,320,0,0
+Bahrain,Bahrain,3/13/20,195,0,44
+Singapore,Singapore,3/13/20,200,0,97
+Australia,Australia,3/13/20,199,3,24
+Malaysia,Malaysia,3/13/20,197,0,26
+Canada,Canada,3/13/20,200,1,8
+Greece,Greece,3/13/20,190,1,0
+Israel,Israel,3/13/20,161,0,4
+Czech Republic,Czech Republic,3/13/20,141,0,0
+Iceland,Iceland,3/13/20,134,0,1
+United Arab Emirates,United Arab Emirates,3/13/20,85,0,17
+Iraq,Iraq,3/13/20,101,9,24
+India,India,3/13/20,82,2,4
+Egypt,Egypt,3/13/20,80,2,27
+Kuwait,Kuwait,3/13/20,80,0,5
+Brazil,Brazil,3/13/20,151,0,0
+Lebanon,Lebanon,3/13/20,77,3,1
+Thailand,Thailand,3/13/20,75,1,35
+Ireland,Ireland,3/13/20,90,1,0
+San Marino,San Marino,3/13/20,80,5,2
+Indonesia,Indonesia,3/13/20,69,4,2
+Saudi Arabia,Saudi Arabia,3/13/20,86,0,1
+Portugal,Portugal,3/13/20,112,0,1
+Romania,Romania,3/13/20,89,0,7
+Finland,Finland,3/13/20,155,0,1
+Slovenia,Slovenia,3/13/20,141,0,0
+Philippines,Philippines,3/13/20,64,6,2
+Poland,Poland,3/13/20,68,2,0
+Vietnam,Vietnam,3/13/20,47,0,16
+Estonia,Estonia,3/13/20,79,0,0
+Brunei,Brunei,3/13/20,37,0,0
+Russia,Russia,3/13/20,45,0,3
+Chile,Chile,3/13/20,43,0,0
+Palestine,Palestine,3/13/20,31,0,0
+Serbia,Serbia,3/13/20,35,0,0
+Croatia,Croatia,3/13/20,32,0,1
+Argentina,Argentina,3/13/20,34,1,0
+Panama,Panama,3/13/20,27,1,0
+Algeria,Algeria,3/13/20,26,2,8
+Georgia (country),Georgia,3/13/20,25,0,0
+South Africa,South Africa,3/13/20,24,0,0
+Albania,Albania,3/13/20,33,1,0
+Bulgaria,Bulgaria,3/13/20,23,1,0
+Pakistan,Pakistan,3/13/20,28,0,2
+Costa Rica,Costa Rica,3/13/20,23,0,0
+Peru,Peru,3/13/20,38,0,0
+Slovakia,Slovakia,3/13/20,32,0,0
+Luxembourg,Luxembourg,3/13/20,34,0,0
+Oman,Oman,3/13/20,19,0,9
+Ecuador,Ecuador,3/13/20,17,1,0
+Hungary,Hungary,3/13/20,19,0,1
+Azerbaijan,Azerbaijan,3/13/20,15,1,0
+Mexico,Mexico,3/13/20,12,0,4
+Tunisia,Tunisia,3/13/20,16,0,0
+Belarus,Belarus,3/13/20,27,0,3
+Latvia,Latvia,3/13/20,17,0,1
+Colombia,Colombia,3/13/20,9,0,0
+Maldives,Maldives,3/13/20,9,0,0
+North Macedonia,North Macedonia,3/13/20,14,0,1
+Afghanistan,Afghanistan,3/13/20,7,0,0
+Malta,Malta,3/13/20,12,0,1
+Cyprus,Cyprus,3/13/20,14,0,0
+New Zealand,New Zealand,3/13/20,5,0,0
+Dominican Republic,Dominican Republic,3/13/20,5,0,0
+Bosnia and Herzegovina,Bosnia and Herzegovina,3/13/20,13,0,0
+Morocco,Morocco,3/13/20,7,1,1
+Paraguay,Paraguay,3/13/20,6,0,0
+Senegal,Senegal,3/13/20,10,0,1
+Lithuania,Lithuania,3/13/20,6,0,0
+Bangladesh,Bangladesh,3/13/20,3,0,0
+Cambodia,Cambodia,3/13/20,5,0,1
+Moldova,Moldova,3/13/20,6,0,0
+Nigeria,Nigeria,3/13/20,2,0,0
+Bolivia,Bolivia,3/13/20,3,0,0
+Sri Lanka,Sri Lanka,3/13/20,6,0,1
+Honduras,Honduras,3/13/20,2,0,0
+Cameroon,Cameroon,3/13/20,2,0,0
+Monaco,Monaco,3/13/20,2,0,0
+Armenia,Armenia,3/13/20,8,0,0
+Mongolia,Mongolia,3/13/20,1,0,0
+Democratic Republic of the Congo,Democratic Republic of the Congo,3/13/20,2,0,0
+Ukraine,Ukraine,3/13/20,3,1,0
+Bhutan,Bhutan,3/13/20,1,0,0
+Nepal,Nepal,3/13/20,1,0,1
+Togo,Togo,3/13/20,1,0,0
+Jordan,Jordan,3/13/20,1,0,1
+Jamaica,Jamaica,3/13/20,8,0,0
+Liechtenstein,Liechtenstein,3/13/20,1,0,0
+Vatican City,Vatican City,3/13/20,1,0,0
+Turkey,Turkey,3/13/20,5,0,0
+Andorra,Andorra,3/13/20,1,0,1
+Guatemala,Guatemala,3/13/20,1,0,0
+Uruguay,Uruguay,3/13/20,4,0,0
+Venezuela,Venezuela,3/13/20,2,0,0
+Kazakhstan,Kazakhstan,3/13/20,4,0,0
+Cuba,Cuba,3/13/20,4,0,0
+Ghana,Ghana,3/13/20,2,0,0
+Aruba,Aruba,3/13/20,2,0,0
+Burkina Faso,Burkina Faso,3/13/20,2,0,0
+Trinidad and Tobago,Trinidad and Tobago,3/13/20,1,0,0
+Ethiopia,Ethiopia,3/13/20,1,0,0
+Gabon,Gabon,3/13/20,1,0,0
+Kenya,Kenya,3/13/20,1,0,0
+Guinea,Guinea,3/13/20,1,0,0
+Guernsey,Guernsey,3/13/20,1,0,0
+Sudan,Sudan,3/13/20,1,1,0
+Cayman Islands,Cayman Islands,3/13/20,1,0,0
+Cote d'Ivoire,Cote d'Ivoire,3/13/20,1,0,0
+Guadeloupe,Guadeloupe,3/13/20,1,0,0
+Martinique,Martinique,3/13/20,3,0,0
+French Guiana,French Guiana,3/13/20,5,0,0
+Reunion,Reunion,3/13/20,5,0,0
+French Polynesia,French Polynesia,3/13/20,1,0,0
+Diamond Princess,USA,3/13/20,46,0,0
+Wuhan Evacuee,USA,3/13/20,3,0,0
+Grand Princess,USA,3/13/20,21,0,0
+Washington,USA,3/13/20,568,37,1
+New York,USA,3/13/20,421,0,0
+California,USA,3/13/20,295,5,2
+Massachusetts,USA,3/13/20,123,0,1
+Colorado,USA,3/13/20,77,1,0
+Florida,USA,3/13/20,51,3,0
+New Jersey,USA,3/13/20,50,1,0
+Texas,USA,3/13/20,49,0,0
+Illinois,USA,3/13/20,46,0,2
+Georgia,USA,3/13/20,42,1,0
+Pennsylvania,USA,3/13/20,41,0,0
+Louisiana,USA,3/13/20,36,0,0
+Oregon,USA,3/13/20,32,0,0
+Virginia,USA,3/13/20,30,0,0
+Tennessee,USA,3/13/20,26,0,0
+Michigan,USA,3/13/20,25,0,0
+Nevada,USA,3/13/20,20,0,0
+Wisconsin,USA,3/13/20,19,0,1
+North Carolina,USA,3/13/20,19,0,0
+Maryland,USA,3/13/20,19,0,0
+Iowa,USA,3/13/20,17,0,0
+Ohio,USA,3/13/20,16,0,0
+Rhode Island,USA,3/13/20,14,0,0
+Minnesota,USA,3/13/20,14,0,0
+Kentucky,USA,3/13/20,14,0,0
+Nebraska,USA,3/13/20,14,0,0
+Indiana,USA,3/13/20,13,0,0
+South Carolina,USA,3/13/20,13,0,0
+Connecticut,USA,3/13/20,11,0,0
+Arizona,USA,3/13/20,10,0,1
+District of Columbia,USA,3/13/20,10,0,0
+New Mexico,USA,3/13/20,10,0,0
+Utah,USA,3/13/20,9,0,0
+South Dakota,USA,3/13/20,9,1,0
+Arkansas,USA,3/13/20,9,0,0
+New Hampshire,USA,3/13/20,6,0,0
+Kansas,USA,3/13/20,6,1,0
+Mississippi,USA,3/13/20,6,0,0
+Montana,USA,3/13/20,5,0,0
+Alabama,USA,3/13/20,6,0,0
+Missouri,USA,3/13/20,4,0,0
+Delaware,USA,3/13/20,4,0,0
+Others (repatriated from Wuhan),USA,3/13/20,3,0,0
+Oklahoma,USA,3/13/20,3,0,0
+Maine,USA,3/13/20,3,0,0
+Hawaii,USA,3/13/20,2,0,0
+Vermont,USA,3/13/20,2,0,0
+Wyoming,USA,3/13/20,1,0,0
+North Dakota,USA,3/13/20,1,0,0
+Alaska,USA,3/13/20,1,0,0
+Idaho,USA,3/13/20,1,0,0

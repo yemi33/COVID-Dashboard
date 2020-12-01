@@ -1,0 +1,66 @@
+name,Region,Last Update,Confirmed,Deaths,Recovered
+Hubei,Mainland China,2/15/20,56249,1596,5623
+Guangdong,Mainland China,2/15/20,1316,2,436
+Henan,Mainland China,2/15/20,1231,13,397
+Zhejiang,Mainland China,2/15/20,1167,0,437
+Hunan,Mainland China,2/15/20,1004,3,430
+Anhui,Mainland China,2/15/20,962,6,266
+Jiangxi,Mainland China,2/15/20,925,1,239
+Jiangsu,Mainland China,2/15/20,617,0,190
+Chongqing,Mainland China,2/15/20,544,5,184
+Shandong,Mainland China,2/15/20,537,2,164
+Sichuan,Mainland China,2/15/20,481,3,127
+Heilongjiang,Mainland China,2/15/20,445,11,70
+Beijing,Mainland China,2/15/20,380,4,105
+Shanghai,Mainland China,2/15/20,328,1,124
+Hebei,Mainland China,2/15/20,300,3,100
+Fujian,Mainland China,2/15/20,287,0,77
+Shaanxi,Mainland China,2/15/20,236,0,64
+Guangxi,Mainland China,2/15/20,237,2,46
+Hainan,Mainland China,2/15/20,162,4,39
+Yunnan,Mainland China,2/15/20,169,0,42
+Guizhou,Mainland China,2/15/20,144,1,37
+Shanxi,Mainland China,2/15/20,128,0,46
+Tianjin,Mainland China,2/15/20,122,3,37
+Liaoning,Mainland China,2/15/20,120,1,32
+Gansu,Mainland China,2/15/20,90,2,49
+Jilin,Mainland China,2/15/20,89,1,28
+Ningxia,Mainland China,2/15/20,70,0,33
+Nei Mongol,Mainland China,2/15/20,70,0,7
+Xinjiang Uygur,Mainland China,2/15/20,71,1,11
+Hong Kong,Hong Kong,2/15/20,56,1,1
+Qinghai,Mainland China,2/15/20,18,0,13
+Taiwan,Taiwan,2/15/20,18,0,1
+Macau,Macau,2/15/20,10,0,3
+Xizang,Mainland China,2/15/20,1,0,1
+Singapore,Singapore,2/15/20,72,0,18
+Thailand,Thailand,2/15/20,34,0,14
+Others,Japan (Diamond Princess),2/15/20,285,0,0
+Japan,Japan,2/15/20,43,1,12
+South Korea,South Korea,2/15/20,29,0,9
+Malaysia,Malaysia,2/15/20,22,0,7
+Germany,Germany,2/15/20,16,0,1
+Vietnam,Vietnam,2/15/20,16,0,7
+France,France,2/15/20,12,1,4
+United Kingdom,United Kingdom,2/15/20,9,0,8
+United Arab Emirates,United Arab Emirates,2/15/20,8,0,4
+India,India,2/15/20,3,0,0
+Italy,Italy,2/15/20,3,0,0
+Philippines,Philippines,2/15/20,3,1,1
+Russia,Russia,2/15/20,2,0,2
+Spain,Spain,2/15/20,2,0,0
+Belgium,Belgium,2/15/20,1,0,0
+Cambodia,Cambodia,2/15/20,1,0,1
+Finland,Finland,2/15/20,1,0,1
+Nepal,Nepal,2/15/20,1,0,1
+Sri Lanka,Sri Lanka,2/15/20,1,0,1
+Sweden,Sweden,2/15/20,1,0,0
+Australia,Australia,2/15/20,15,0,8
+Canada,Canada,2/15/20,8,0,1
+Egypt,Egypt,2/15/20,1,0,0
+California,USA,2/15/20,8,0,1
+Illinois,USA,2/15/20,2,0,2
+Arizona,USA,2/15/20,1,0,0
+Massachusetts,USA,2/15/20,1,0,0
+Washington,USA,2/15/20,1,0,1
+Wisconsin,USA,2/15/20,1,0,0

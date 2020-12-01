@@ -1,0 +1,227 @@
+/*Heading*/
+h1{
+    padding: 32px 0px 32px 0px;
+    align: center;
+    background-color: #000839;
+    color: #ffa41b;
+    text-align: center;
+    margin-left: -10%;
+    margin-right: -11%;
+}
+
+/*Logo*/
+#logo {
+    border: none;
+    width:80px;
+    height:80px;
+    margin-left: 8px;
+    margin-right: -13%;
+    margin-top: 8px;
+    padding-top: 0%;
+    padding-right: 0px;
+    color: #ffa41b;
+}
+
+/*Navigation*/
+nav ul {
+    background-color: #000839;
+    list-style-type: none;
+    overflow: hidden;
+    margin: 0% -3%;
+}
+
+nav li a {
+    display: block;
+    color: #ffa41b;
+    text-decoration: none;
+    text-align: center;
+    padding: 14px 16px;
+}
+
+nav li a:hover {
+    color: #000839;
+    background-color: #ffa41b;
+}
+
+nav li {
+    float: left;
+    font-size:1.1em;
+    font-weight: 200;
+}
+
+.active{
+    background-color: #ffa41b;
+    color: white;
+}
+
+nav {
+    position: sticky;
+    top: 0;
+}
+
+/*Dropdown Menu*/
+li {
+    display: block;
+}
+
+ul {
+    padding: 0px 0px 0px 0px;
+}
+
+li:hover > a.dropbtn {
+    background: #f8b44d;
+    color: #000839;
+    cursor: pointer;
+}
+
+ul li .dropdown-content {
+    background: black;
+    color: #ffa41b;
+    visibility: hidden;
+    opacity: 0;
+    min-width: 4.5rem;
+    max-width: 6.1rem;
+    position: absolute;
+    transition: all 0.5s ease;
+    margin-left: 3rem;
+    left: 0;
+    display: none;
+}
+
+ul li:hover > .dropdown-content, 
+ul li:focus-within > ul
+ul li ul:hover {
+    visibility: visible;
+    opacity: 1;
+    display: block;
+}
+
+ul li ul li {
+    clear: both;
+    width: 100;
+}
+
+/*Body*/
+body {
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+img {
+    float: left;
+    border: 2px black;
+    margin-right: 30px;
+    margin-left: -40px;
+    border: 2px solid black;
+    border-radius: 8px;
+}
+
+figcaption {
+    text-align: left;
+    margin-left: -5px;
+    font-family: Helvetica, sans-serif;
+    font-weight: 100;
+}
+
+div {
+    clear: left;
+    padding-bottom: 10px;
+}
+
+div.motivation {
+    background-color: #ffa41b;
+    color: #000839
+    width: 100%;
+    padding: 10px;
+    margin: 2%;
+    margin-left: -5px;
+    margin-right: 5px;
+}
+
+/*Search Bar*/
+.searchbar {
+    padding: 4px 0px;
+}
+form.form1 {
+
+  width: 50%;
+  padding: 16px 20px;
+  border: 2px solid #000839;
+  border-radius: 4px;
+  background-color: white;
+    overflow: auto;
+}
+
+select {
+    width: 100%;
+    font-size: 12px;
+    margin: 4px 4px;
+}
+
+input {
+    font-size: 12px;
+    margin: 4px 4px;
+}
+
+input.submit{
+    width: 25%;
+    background-color: #000839;
+    color: aliceblue;
+    font-family: Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: 200;
+    padding: 16px 28px;
+    margin: 4px 4px;
+    cursor: pointer;
+    float: right;
+    align-content: center;
+}
+
+/*Current Dash Board*/
+.Info {
+    float: right;
+    margin: 8px 3% 0px -50px;
+}
+
+/*General Styling*/
+h1, h2, h3 {
+    font-family: Helvetica, sans-serif;
+    font-weight: 200;
+}
+
+body {
+    font-family: Helvetica, sans-serif;
+    font-weight: 200;
+}
+h2 {
+    color: #d1820c
+}
+
+#positive {
+    color: #000839;
+}
+
+p {
+    font-family: Helvetica, sans-serif;
+    font-weight: 100;
+}
+
+li {
+    font-family: Helvetica, sans-serif;
+    line-height: 1.4;
+    font-weight: 100;
+}
+
+#neutral {
+    color: gray;
+}
+
+#dark {
+    color: black;
+}
+
+#bright {
+    color: green;
+}
+
+

@@ -1,0 +1,130 @@
+name,Region,Last Update,Confirmed,Deaths,Recovered
+Hubei,Mainland China,3/4/20,67466,2902,40479
+Guangdong,Mainland China,3/4/20,1350,7,1159
+Henan,Mainland China,3/4/20,1272,22,1239
+Zhejiang,Mainland China,3/4/20,1215,1,1130
+Hunan,Mainland China,3/4/20,1018,4,933
+Anhui,Mainland China,3/4/20,990,6,956
+Jiangxi,Mainland China,3/4/20,935,1,901
+Shandong,Mainland China,3/4/20,758,6,515
+Jiangsu,Mainland China,3/4/20,631,0,580
+Chongqing,Mainland China,3/4/20,576,6,490
+Sichuan,Mainland China,3/4/20,539,3,418
+Heilongjiang,Mainland China,3/4/20,481,13,379
+Beijing,Mainland China,3/4/20,418,8,297
+Shanghai,Mainland China,3/4/20,338,3,298
+Hebei,Mainland China,3/4/20,318,6,300
+Fujian,Mainland China,3/4/20,296,1,270
+Guangxi,Mainland China,3/4/20,252,2,210
+Shaanxi,Mainland China,3/4/20,245,1,222
+Yunnan,Mainland China,3/4/20,174,2,169
+Hainan,Mainland China,3/4/20,168,5,158
+Guizhou,Mainland China,3/4/20,146,2,114
+Tianjin,Mainland China,3/4/20,136,3,128
+Shanxi,Mainland China,3/4/20,133,0,124
+Liaoning,Mainland China,3/4/20,125,1,106
+Hong Kong,Hong Kong,3/4/20,104,2,43
+Jilin,Mainland China,3/4/20,93,1,84
+Gansu,Mainland China,3/4/20,91,2,87
+Xinjiang Uygur,Mainland China,3/4/20,76,3,68
+Nei Mongol,Mainland China,3/4/20,75,1,59
+Ningxia,Mainland China,3/4/20,75,0,69
+Taiwan,Taiwan,3/4/20,42,1,12
+Qinghai,Mainland China,3/4/20,18,0,18
+Macau,Macau,3/4/20,10,0,9
+Xizang,Mainland China,3/4/20,1,0,1
+South Korea,South Korea,3/4/20,5766,35,88
+Italy,Italy,3/4/20,3089,107,276
+Iran,Iran,3/4/20,2922,92,552
+Others,Japan (Diamond Princess),3/4/20,706,6,10
+Japan,Japan,3/4/20,330,6,48
+France,France,3/4/20,285,4,15
+Germany,Germany,3/4/20,376,0,16
+Spain,Spain,3/4/20,222,2,2
+Singapore,Singapore,3/4/20,110,0,78
+United Kingdom,United Kingdom,3/4/20,85,0,8
+Switzerland,Switzerland,3/4/20,80,0,2
+Norway,Norway,3/4/20,56,0,0
+Kuwait,Kuwait,3/4/20,56,0,0
+Bahrain,Bahrain,3/4/20,52,0,0
+Australia,Australia,3/4/20,52,2,15
+Sweden,Sweden,3/4/20,52,0,0
+Malaysia,Malaysia,3/4/20,50,0,21
+Thailand,Thailand,3/4/20,43,1,31
+Netherlands,Netherlands,3/4/20,38,0,0
+Iraq,Iraq,3/4/20,35,2,0
+Canada,Canada,3/4/20,33,0,6
+India,India,3/4/20,28,0,3
+Austria,Austria,3/4/20,29,0,0
+United Arab Emirates,United Arab Emirates,3/4/20,27,0,5
+Iceland,Iceland,3/4/20,26,0,0
+Belgium,Belgium,3/4/20,23,0,1
+Algeria,Algeria,3/4/20,17,0,0
+San Marino,San Marino,3/4/20,16,1,0
+Vietnam,Vietnam,3/4/20,16,0,16
+Oman,Oman,3/4/20,15,0,1
+Israel,Israel,3/4/20,15,0,2
+Lebanon,Lebanon,3/4/20,13,0,0
+Denmark,Denmark,3/4/20,10,0,0
+Ecuador,Ecuador,3/4/20,10,0,0
+Croatia,Croatia,3/4/20,10,0,0
+Qatar,Qatar,3/4/20,8,0,0
+Czech Republic,Czech Republic,3/4/20,8,0,0
+Greece,Greece,3/4/20,8,0,0
+Finland,Finland,3/4/20,7,0,1
+Belarus,Belarus,3/4/20,6,0,0
+Romania,Romania,3/4/20,6,0,0
+Mexico,Mexico,3/4/20,5,0,0
+Pakistan,Pakistan,3/4/20,5,0,0
+Portugal,Portugal,3/4/20,5,0,0
+Philippines,Philippines,3/4/20,3,1,1
+Georgia (country),Georgia,3/4/20,3,0,0
+Azerbaijan,Azerbaijan,3/4/20,3,0,0
+Russia,Russia,3/4/20,3,0,2
+Brazil,Brazil,3/4/20,4,0,0
+Egypt,Egypt,3/4/20,2,0,0
+Indonesia,Indonesia,3/4/20,2,0,0
+New Zealand,New Zealand,3/4/20,2,0,0
+Ireland,Ireland,3/4/20,2,0,0
+Senegal,Senegal,3/4/20,4,0,0
+Saudi Arabia,Saudi Arabia,3/4/20,2,0,0
+Cambodia,Cambodia,3/4/20,1,0,1
+Nepal,Nepal,3/4/20,1,0,1
+Sri Lanka,Sri Lanka,3/4/20,1,0,1
+Afghanistan,Afghanistan,3/4/20,1,0,0
+North Macedonia,North Macedonia,3/4/20,1,0,0
+Estonia,Estonia,3/4/20,1,0,0
+Nigeria,Nigeria,3/4/20,1,0,0
+Lithuania,Lithuania,3/4/20,1,0,0
+Monaco,Monaco,3/4/20,1,0,0
+Luxembourg,Luxembourg,3/4/20,1,0,0
+Dominican Republic,Dominican Republic,3/4/20,1,0,0
+Armenia,Armenia,3/4/20,1,0,0
+Andorra,Andorra,3/4/20,1,0,0
+Jordan,Jordan,3/4/20,1,0,0
+Tunisia,Tunisia,3/4/20,1,0,0
+Latvia,Latvia,3/4/20,1,0,0
+Morocco,Morocco,3/4/20,1,0,0
+Ukraine,Ukraine,3/4/20,1,0,0
+Argentina,Argentina,3/4/20,1,0,0
+Chile,Chile,3/4/20,3,0,0
+Liechtenstein,Liechtenstein,3/4/20,1,0,0
+Poland,Poland,3/4/20,1,0,0
+Hungary,Hungary,3/4/20,2,0,0
+Slovenia,Slovenia,3/4/20,1,0,0
+Unknown location US,USA (all are repatriated cases),3/4/20,48,0,0
+California,USA,3/4/20,36,1,2
+Washington,USA,3/4/20,39,10,1
+Illinois,USA,3/4/20,4,0,2
+Texas,USA,3/4/20,1,0,0
+Arizona,USA,3/4/20,2,0,1
+Massachusetts,USA,3/4/20,2,0,0
+Wisconsin,USA,3/4/20,1,0,0
+Oregon,USA,3/4/20,3,0,0
+Rhode Island,USA,3/4/20,2,0,0
+New York,USA,3/4/20,11,0,0
+Florida,USA,3/4/20,3,0,0
+New Hampshire,USA,3/4/20,2,0,0
+Georgia,USA,3/4/20,2,0,0
+North Carolina,USA,3/4/20,1,0,0
+New Jersey,USA,3/4/20,1,0,0

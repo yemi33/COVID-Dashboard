@@ -1,0 +1,155 @@
+<html lang="en">
+    <head>
+        <title>COVID-19 Data</title>
+        <link rel="stylesheet" href="stylesheet.css">
+    </head>
+
+    <body>
+        <!--Logo-->
+        <img id = logo src ="carletonLogo.png" alt = "Carleton Logo"></i>
+        <!--Banner-->
+        <h1> 
+            Spring 2020 US COVID-19 Cases
+        </h1>
+        <!--Navigation-->
+        <nav>
+            <ul>
+                <li><a class="active" href="#home">Home</a></li>
+                <li><a class="dropbtn" href="about.html">Data Set</a>
+                    <ul class="dropdown-content">
+                        <li><a href="map.html">Map</a></li>
+                        <li><a href="#graph">Graph</a></li>
+                        <li><a href="about.html">About Data</a></li>
+                    </ul>
+                </li> 
+                <li><a href="#about">About COVID-19</a></li>
+                <li><a href="#positive">Helpful Guide</a></li>
+            </ul>
+        </nav>
+        <!--Current Status-->
+        <div class="Info">
+            <h2 id="currentStatus">Current Status</h2>
+                <h3>Coronavirus Cases: <strong id="neutral">1210,197</strong></h3> 
+                <h3>Recovered: <strong id="bright"> 185047</strong></h3>
+                <h3>Deaths: <strong id="dark"> 69492</strong></h3>
+            <p>Last updated: April 27th 2020.</p>
+        </div>
+
+        <!--Search Bar-->
+        <div class="searchbar">
+            <h2>Find US Covid Data for Spring 2020:</h2>
+            <!form action="/"...destination>
+            <form class="form1" action = "map.html">
+                <label for="State">State:</label><br>
+                <select id="State" name="State"><br>
+                    <option value="All" selected>All</option>
+                    <option value="Alabama">Alabama</option>
+                    <option value="Alaska">Alaska</option>
+                    <option value="Arizona">Arizona</option>
+                    <option value="Arkansas">Arkansas</option>
+                    <option value="California">California</option>
+                    <option value="Colorado">Colorado</option>
+                    <option value="Connecticut">Connecticut</option>
+                    <option value="Delaware">Delaware</option>
+                    <option value="Florida">Florida</option>
+                    <option value="Georgia">Georgia</option>
+                    <option value="Hawaii">Hawaii</option>
+                    <option value="Idaho">Idaho</option>
+                    <option value="Illinois">Illinois</option>
+                    <option value="Indiana">Indiana</option>
+                    <option value="Iowa">Iowa</option>
+                    <option value="Kansas">Kansas</option>
+                    <option value="Kentucky">Kentucky</option>
+                    <option value="Louisiana">Louisiana</option>
+                    <option value="Maine">Maine</option>
+                    <option value="Maryland">Maryland</option>
+                    <option value="Massachussets">Massachussets</option>
+                    <option value="Michigan">Michigan</option>
+                    <option value="Minnesota">Minnesota</option>
+                    <option value="Mississippi">Mississippi</option>
+                    <option value="Missouri">Missouri</option>
+                    <option value="Montana">Montana</option>
+                    <option value="Nebraska">Nebraska</option>
+                    <option value="Nevada">Nevada</option>
+                    <option value="New Hampshire">New Hampshire</option>
+                    <option value="New Jersey">New Jersey</option>
+                    <option value="New Mexico">New Mexico</option>
+                    <option value="New York">New York</option>
+                    <option value="North Carolina">North Carolina</option>
+                    <option value="North Dakota">North Dakota</option>
+                    <option value="Ohio">Ohio</option>
+                    <option value="Oklahoma">Oklahoma</option>
+                    <option value="Oregon">Oregon</option>
+                    <option value="Pennsylvania">Pennsylvania</option>
+                    <option value="Rhode Island">Rhode Island</option>
+                    <option value="South Carolina">South Carolina</option>
+                    <option value="South Dakota">South Dakota</option>
+                    <option value="Tennessee">Tennessee</option>
+                    <option value="Texas">Texas</option>
+                    <option value="Utah">Utah</option>
+                    <option value="Vermont">Vermont</option>
+                    <option value="Virginia">Virginia</option>
+                    <option value="Washington">Washington</option>
+                    <option value="West Virginia">West Virginia</option>
+                    <option value="Wisonsin">Wisonsin</option>
+                    <option value="Wyoming">Wyoming</option>
+                </select><br>
+                <label for="CaseType">Case type:</label><br>
+                <select id="CaseType" name="CaseType"><br>
+                    <option value="All" selected>All</option>
+                    <option value="Active">Active</option>
+                    <option value="Confirmed">Confirmed</option>
+                    <option value="Deaths">Deaths</option>
+                    <option value="Recovered">Recovered</option>
+                </select><br>
+                <label for="Display"> Display type:</label><br>
+                <select id="Display" name="Display"><br>
+                    <option value="Graph">Graph</option>
+                    <option value="Map">Map</option>
+                    <option value="Table">Table</option>
+                </select><br>
+                
+                <label for="startdate">Start date:</label><br>
+                <input type="date" id="startdate" name="startdate"><br>
+                <label for="enddate">End date:</label><br>
+                <input type="date" id="enddate" name="enddate">
+                <input class="submit" type="submit" value="Submit">
+            </form>       
+        </div>  
+         
+        <!--Data Source Section-->
+        <div class="Data Source">
+            <h2 id="data">Data Source</h2>
+            <p>Main: <a href="https://nssac.bii.virginia.edu/covid-19/dashboard/" target="_blank">University of Virginia Biocomplexity Institute and Initiative.</a></p>
+            <p>Most recent data retrieved from <a href="covid-04-27-2020.csv" target="_blank">csv </a>format on 27 April 2020.</p>
+        </div>
+
+        <!--About Covid 19 Section-->
+        <div class="About">
+            <h2 id="about">About COVID-19</h2>
+                <figure>
+                    <img src="coronavirus.png" alt="coronavirus" style="width:300px;height:200px;">
+                    <figcaption><a href="https://www.centredaily.com/news/coronavirus/article242336606.html" target="_blank">Image source</a></figcaption>
+                </figure>
+                 <p> <a href= "https://www.cdc.gov/coronavirus/2019-ncov/index.html" target="_blank">COVID-19</a> is a pandemic that is currently affecting the world in tremendous ways.
+                    Especially the US, though it was hit later than most countries, is experiencing 
+                    enormous strife both as millions of citizens suffer and die from the disease, and the economy 
+                    continues to decline as stores shut down and companies decrease in revenue.  
+                </p>
+                
+                <p> We want to explore the affect of COVID-19 in the US, but on top of that, we also
+                    want to shed some optimistic light these dire times. For example, not many people are aware 
+                    that a lot more people are getting cured from the disease than there are people dying. 
+                    Yes the situation seems daunting and scary, and it is, but we don't have to always feel that way. 
+                    This website is for users to get accurate COVID-19 related data and at the same time have a more
+                    positive outlook on the future. 
+                </p>  
+        </div>
+        <!--Motivational Words Section-->
+        <div class="motivation">
+            <h2 id="positive">Despite It All</h2>
+            <p> This too shall pass. Together we can still be one.</p>
+        </div>
+    </body>
+
+</html>

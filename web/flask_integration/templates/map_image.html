@@ -1,0 +1,127 @@
+<!--
+map_image.html
+
+    HMTL template that renders images created by the methods 
+    getCasesPerCapitaAllStates and getCases in datasource.py
+
+    The image is a graph of either all the cases that satify the user query in the form,
+    or cases per capita for all states if the user selects "All" for state and 
+    selects perCapita checkbox. 
+
+    Gracie Little, Rudra Subramanian, Rebecca Fox, Yemi Shin 
+    25 May 2020
+    CS257
+--> 
+<link rel="stylesheet" type="text/css" href="/static/map.css">
+<head>
+    <title>COVID-19 Data</title>
+</head>
+
+<body>
+  <img id = logo src ="/static/carletonLogo.png" alt = "Carleton Logo"></i>
+    <h1> 
+      Spring 2020 US COVID-19 Cases
+    </h1>
+  
+  <!--Navigation-->
+  <nav>
+    <ul>
+        <li><a class="home" href="/">Home</a></li>
+        <li><a class="dropbtn active" href="about.html">Data Set</a>
+          <ul class="dropdown-content">
+              <li><a href="/results/">Results</a></li>
+              <li><a href="/about/">About Data</a></li>
+          </ul>
+        </li> 
+        <li><a href="/about/">About COVID-19</a></li>
+    </ul>
+  </nav>
+
+  <!--Results Image-->
+  <img class="img" src="/static/datavis.png" alt="graph">
+
+
+  <!--Side Navigation-->
+  <div class="sidenav">
+    <div class="text-in-menu">
+      <form class="form1" action = "/results/" method="POST">
+        <label for="State">State:</label><br>
+        <select id="State" name="State" required><br>
+            <option value="All" selected>All</option>
+            <option value="Alabama">Alabama</option>
+            <option value="Alaska">Alaska</option>
+            <option value="Arizona">Arizona</option>
+            <option value="Arkansas">Arkansas</option>
+            <option value="California">California</option>
+            <option value="Colorado">Colorado</option>
+            <option value="Connecticut">Connecticut</option>
+            <option value="Delaware">Delaware</option>
+            <option value="Florida">Florida</option>
+            <option value="Georgia">Georgia</option>
+            <option value="Hawaii">Hawaii</option>
+            <option value="Idaho">Idaho</option>
+            <option value="Illinois">Illinois</option>
+            <option value="Indiana">Indiana</option>
+            <option value="Iowa">Iowa</option>
+            <option value="Kansas">Kansas</option>
+            <option value="Kentucky">Kentucky</option>
+            <option value="Louisiana">Louisiana</option>
+            <option value="Maine">Maine</option>
+            <option value="Maryland">Maryland</option>
+            <option value="Massachussets">Massachussets</option>
+            <option value="Michigan">Michigan</option>
+            <option value="Minnesota">Minnesota</option>
+            <option value="Mississippi">Mississippi</option>
+            <option value="Missouri">Missouri</option>
+            <option value="Montana">Montana</option>
+            <option value="Nebraska">Nebraska</option>
+            <option value="Nevada">Nevada</option>
+            <option value="New Hampshire">New Hampshire</option>
+            <option value="New Jersey">New Jersey</option>
+            <option value="New Mexico">New Mexico</option>
+            <option value="New York">New York</option>
+            <option value="North Carolina">North Carolina</option>
+            <option value="North Dakota">North Dakota</option>
+            <option value="Ohio">Ohio</option>
+            <option value="Oklahoma">Oklahoma</option>
+            <option value="Oregon">Oregon</option>
+            <option value="Pennsylvania">Pennsylvania</option>
+            <option value="Rhode Island">Rhode Island</option>
+            <option value="South Carolina">South Carolina</option>
+            <option value="South Dakota">South Dakota</option>
+            <option value="Tennessee">Tennessee</option>
+            <option value="Texas">Texas</option>
+            <option value="Utah">Utah</option>
+            <option value="Vermont">Vermont</option>
+            <option value="Virginia">Virginia</option>
+            <option value="Washington">Washington</option>
+            <option value="West Virginia">West Virginia</option>
+            <option value="Wisonsin">Wisonsin</option>
+            <option value="Wyoming">Wyoming</option>
+            <option value ="Puerto Rico">Puerto Rico</option>
+            <option value ="Navajo Nation">Navajo Nation</option>
+            <option value ="District of Columbia">District of Columbia</option>
+            <option value ="Federal Bureau of Prisons">Federal Bureau of Prisons</option>
+          
+        </select><br>
+        <label for="CaseType">Case type:</label><br>
+        <select id="CaseType" name="CaseType" required><br>
+            <option value="Confirmed">Confirmed</option>
+            <option value="Death">Death</option>
+            <option value="Recovered">Recovered</option>
+        </select><br>
+        
+        <label for="startdate">Start date:</label><br>
+        <input type="date" id="startdate" name="startdate" min="2020-01-22" max="2020-05-25" required><br>
+        <label for="enddate">End date:</label><br>
+        <input type="date" id="enddate" name="enddate" min="2020-01-22" max="2020-05-25" required><br>
+        <p>Note: Per Capita values are from May 25th, 2020 only, regardless of start and end date values</p>
+        <p> Per Capita <input type="checkbox" id="percapita_check" name="perCapita"></p>        <input class="submit" type="submit" value="Submit">
+        {% if feedback %} 
+        <p class="text-danger float-right">{{ feedback }}</p>
+        {% endif %}
+    </form> 
+    </div>
+  </div>
+</body>
+

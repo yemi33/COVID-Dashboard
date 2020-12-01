@@ -1,0 +1,91 @@
+name,Region,Last Update,Confirmed,Deaths,Recovered
+Hubei,Mainland China,2/27/20,65914,2682,26403
+Guangdong,Mainland China,2/27/20,1348,7,919
+Henan,Mainland China,2/27/20,1272,20,1103
+Zhejiang,Mainland China,2/27/20,1205,1,943
+Hunan,Mainland China,2/27/20,1017,4,820
+Anhui,Mainland China,2/27/20,990,6,842
+Jiangxi,Mainland China,2/27/20,935,1,790
+Shandong,Mainland China,2/27/20,756,6,390
+Jiangsu,Mainland China,2/27/20,631,0,506
+Chongqing,Mainland China,2/27/20,576,6,401
+Sichuan,Mainland China,2/27/20,538,3,326
+Heilongjiang,Mainland China,2/27/20,480,13,280
+Beijing,Mainland China,2/27/20,410,7,257
+Shanghai,Mainland China,2/27/20,337,3,276
+Hebei,Mainland China,2/27/20,318,6,274
+Fujian,Mainland China,2/27/20,296,1,232
+Guangxi,Mainland China,2/27/20,252,2,166
+Shaanxi,Mainland China,2/27/20,245,1,197
+Yunnan,Mainland China,2/27/20,174,2,150
+Hainan,Mainland China,2/27/20,168,5,132
+Guizhou,Mainland China,2/27/20,146,2,112
+Tianjin,Mainland China,2/27/20,136,3,102
+Shanxi,Mainland China,2/27/20,133,0,104
+Liaoning,Mainland China,2/27/20,121,1,93
+Jilin,Mainland China,2/27/20,93,1,68
+Hong Kong,Hong Kong,2/27/20,93,2,26
+Gansu,Mainland China,2/27/20,91,2,82
+Xinjiang Uygur,Mainland China,2/27/20,76,3,43
+Nei Mongol,Mainland China,2/27/20,75,0,43
+Ningxia,Mainland China,2/27/20,72,0,68
+Taiwan,Taiwan,2/27/20,32,1,6
+Qinghai,Mainland China,2/27/20,18,0,18
+Macau,Macau,2/27/20,10,0,8
+Xizang,Mainland China,2/27/20,1,0,1
+South Korea,South Korea,2/27/20,2022,13,24
+Others,Japan (Diamond Princess),2/27/20,705,4,0
+Japan,Japan,2/27/20,214,4,22
+Italy,Italy,2/27/20,655,17,45
+Iran,Iran,2/27/20,270,26,49
+Singapore,Singapore,2/27/20,96,0,66
+Germany,Germany,2/27/20,48,0,14
+Kuwait,Kuwait,2/27/20,43,0,0
+Thailand,Thailand,2/27/20,40,0,22
+France,France,2/27/20,38,2,11
+Bahrain,Bahrain,2/27/20,33,0,0
+Spain,Spain,2/27/20,25,0,2
+Australia,Australia,2/27/20,23,0,15
+Malaysia,Malaysia,2/27/20,23,0,15
+United Arab Emirates,United Arab Emirates,2/27/20,19,0,5
+Vietnam,Vietnam,2/27/20,16,0,16
+United Kingdom,United Kingdom,2/27/20,16,0,8
+Canada,Canada,2/27/20,13,0,4
+Switzerland,Switzerland,2/27/20,8,0,0
+Iraq,Iraq,2/27/20,7,0,0
+Sweden,Sweden,2/27/20,7,0,0
+Israel,Israel,2/27/20,7,0,1
+Oman,Oman,2/27/20,6,0,0
+Russia,Russia,2/27/20,2,0,2
+Philippines,Philippines,2/27/20,3,1,1
+Austria,Austria,2/27/20,3,0,0
+Croatia,Croatia,2/27/20,3,0,0
+Greece,Greece,2/27/20,3,0,0
+Lebanon,Lebanon,2/27/20,3,0,0
+India,India,2/27/20,3,0,3
+Finland,Finland,2/27/20,2,0,1
+Pakistan,Pakistan,2/27/20,2,0,0
+Belgium,Belgium,2/27/20,1,0,1
+Cambodia,Cambodia,2/27/20,1,0,1
+Nepal,Nepal,2/27/20,1,0,1
+Sri Lanka,Sri Lanka,2/27/20,1,0,1
+Egypt,Egypt,2/27/20,1,0,0
+Afghanistan,Afghanistan,2/27/20,1,0,0
+Algeria,Algeria,2/27/20,1,0,0
+Brazil,Brazil,2/27/20,1,0,0
+North Macedonia,North Macedonia,2/27/20,1,0,0
+Norway,Norway,2/27/20,1,0,0
+Romania,Romania,2/27/20,1,0,0
+Georgia (country),Georgia,2/27/20,1,0,0
+Denmark,Denmark,2/27/20,1,0,0
+Estonia,Estonia,2/27/20,1,0,0
+San Marino,San Marino,2/27/20,1,0,0
+Nigeria,Nigeria,2/27/20,1,0,0
+Netherlands,Netherlands,2/27/20,1,0,0
+Unknown location US,USA (all are repatriated cases),2/27/20,42,0,0
+California,USA,2/27/20,11,0,2
+Illinois,USA,2/27/20,2,0,2
+Arizona,USA,2/27/20,1,0,1
+Massachusetts,USA,2/27/20,1,0,0
+Washington,USA,2/27/20,1,0,1
+Wisconsin,USA,2/27/20,1,0,0

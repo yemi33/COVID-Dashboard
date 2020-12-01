@@ -1,2 +1,9 @@
-# COVID-Dashboard
-A webapp where users can query the latest COVID-19 stats.
+# Team_G
+web-project-team_g created by GitHub Classroom
+
+Gracie Little
+Rebecca Fox
+Rudra Subramanian
+Yemi Shin
+
+They call us --"Covid-GForce"

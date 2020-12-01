@@ -1,0 +1,245 @@
+name,Region,Last Update,Confirmed,Deaths,Recovered
+Hubei,Mainland China,3/17/20,67800,3122,56883
+Guangdong,Mainland China,3/17/20,1369,8,1312
+Henan,Mainland China,3/17/20,1273,22,1250
+Zhejiang,Mainland China,3/17/20,1232,1,1216
+Hunan,Mainland China,3/17/20,1018,4,1014
+Anhui,Mainland China,3/17/20,990,6,984
+Jiangxi,Mainland China,3/17/20,935,1,934
+Shandong,Mainland China,3/17/20,761,7,746
+Jiangsu,Mainland China,3/17/20,631,0,631
+Chongqing,Mainland China,3/17/20,576,6,570
+Sichuan,Mainland China,3/17/20,540,3,525
+Heilongjiang,Mainland China,3/17/20,482,13,459
+Beijing,Mainland China,3/17/20,458,8,373
+Shanghai,Mainland China,3/17/20,361,3,325
+Hebei,Mainland China,3/17/20,318,6,310
+Fujian,Mainland China,3/17/20,296,1,295
+Guangxi,Mainland China,3/17/20,253,2,250
+Shaanxi,Mainland China,3/17/20,246,3,236
+Yunnan,Mainland China,3/17/20,176,2,172
+Hainan,Mainland China,3/17/20,168,6,161
+Hong Kong,Hong Kong,3/17/20,167,4,92
+Guizhou,Mainland China,3/17/20,146,2,144
+Tianjin,Mainland China,3/17/20,136,3,133
+Shanxi,Mainland China,3/17/20,133,0,133
+Gansu,Mainland China,3/17/20,133,2,91
+Liaoning,Mainland China,3/17/20,125,1,122
+Jilin,Mainland China,3/17/20,93,1,92
+Xinjiang Uygur,Mainland China,3/17/20,76,3,73
+Nei Mongol,Mainland China,3/17/20,75,1,73
+Ningxia,Mainland China,3/17/20,75,0,75
+Taiwan,Taiwan,3/17/20,77,1,22
+Qinghai,Mainland China,3/17/20,18,0,18
+Macau,Macau,3/17/20,13,0,10
+Xizang,Mainland China,3/17/20,1,0,1
+Benin,Benin,3/17/20,1,0,0
+Barbados,Barbados,3/17/20,2,0,0
+Central African Republic,Central African Republic,3/17/20,1,0,0
+Republic of the Congo,Republic of the Congo,3/17/20,1,0,0
+Equatorial Guinea,Equatorial Guinea,3/17/20,1,0,0
+Liberia,Liberia,3/17/20,1,0,0
+Montenegro,Montenegro,3/17/20,2,0,0
+Mayotte,Mayotte,3/17/20,3,0,0
+Somalia,Somalia,3/17/20,1,0,0
+Kosovo,Kosovo,3/17/20,2,0,0
+Tanzania,Tanzania,3/17/20,1,0,0
+Italy,Italy,3/17/20,31506,2503,2941
+Iran,Iran,3/17/20,16169,988,5389
+Spain,Spain,3/17/20,11826,533,1028
+Germany,Germany,3/17/20,9257,24,67
+South Korea,South Korea,3/17/20,8413,84,1540
+France,France,3/17/20,7695,148,12
+Switzerland,Switzerland,3/17/20,2700,27,15
+Netherlands,Netherlands,3/17/20,1710,43,2
+United Kingdom,United Kingdom,3/17/20,1960,72,66
+Norway,Norway,3/17/20,1471,3,1
+Austria,Austria,3/17/20,1332,3,1
+Belgium,Belgium,3/17/20,1243,10,1
+Sweden,Sweden,3/17/20,1196,8,1
+Denmark,Denmark,3/17/20,1024,4,1
+Japan,Japan,3/17/20,880,28,171
+Others,Japan (Diamond Princess),3/17/20,706,6,10
+Malaysia,Malaysia,3/17/20,673,2,49
+Australia,Australia,3/17/20,452,5,23
+Portugal,Portugal,3/17/20,448,1,3
+Qatar,Qatar,3/17/20,442,0,4
+Canada,Canada,3/17/20,598,8,10
+Czech Republic,Czech Republic,3/17/20,396,0,3
+Greece,Greece,3/17/20,387,5,8
+Israel,Israel,3/17/20,337,0,11
+Finland,Finland,3/17/20,321,0,10
+Slovenia,Slovenia,3/17/20,275,1,0
+Singapore,Singapore,3/17/20,266,0,114
+Brazil,Brazil,3/17/20,291,1,2
+Poland,Poland,3/17/20,238,5,13
+Pakistan,Pakistan,3/17/20,237,0,2
+Bahrain,Bahrain,3/17/20,228,1,81
+Estonia,Estonia,3/17/20,225,0,1
+Ireland,Ireland,3/17/20,223,2,5
+Iceland,Iceland,3/17/20,220,1,0
+Chile,Chile,3/17/20,201,0,0
+Egypt,Egypt,3/17/20,196,4,32
+Philippines,Philippines,3/17/20,187,12,5
+Romania,Romania,3/17/20,217,0,19
+Thailand,Thailand,3/17/20,177,1,41
+Indonesia,Indonesia,3/17/20,172,5,8
+Saudi Arabia,Saudi Arabia,3/17/20,171,0,6
+Iraq,Iraq,3/17/20,154,11,32
+India,India,3/17/20,137,3,13
+Luxembourg,Luxembourg,3/17/20,140,1,0
+Kuwait,Kuwait,3/17/20,130,0,9
+Lebanon,Lebanon,3/17/20,120,3,3
+Peru,Peru,3/17/20,117,0,1
+Russia,Russia,3/17/20,114,0,8
+San Marino,San Marino,3/17/20,119,11,4
+United Arab Emirates,United Arab Emirates,3/17/20,113,0,26
+Mexico,Mexico,3/17/20,82,0,4
+Armenia,Armenia,3/17/20,78,0,1
+Slovakia,Slovakia,3/17/20,97,0,0
+Panama,Panama,3/17/20,69,1,0
+Argentina,Argentina,3/17/20,68,2,3
+Bulgaria,Bulgaria,3/17/20,67,2,0
+Vietnam,Vietnam,3/17/20,66,0,16
+Colombia,Colombia,3/17/20,65,0,1
+Serbia,Serbia,3/17/20,72,0,1
+Croatia,Croatia,3/17/20,65,0,4
+South Africa,South Africa,3/17/20,85,0,0
+Algeria,Algeria,3/17/20,60,4,12
+Ecuador,Ecuador,3/17/20,58,2,0
+Brunei,Brunei,3/17/20,56,0,0
+Albania,Albania,3/17/20,55,1,0
+Hungary,Hungary,3/17/20,50,1,2
+Latvia,Latvia,3/17/20,49,0,1
+Turkey,Turkey,3/17/20,98,1,0
+Cyprus,Cyprus,3/17/20,46,0,0
+Sri Lanka,Sri Lanka,3/17/20,44,0,1
+Costa Rica,Costa Rica,3/17/20,41,0,0
+Andorra,Andorra,3/17/20,39,0,1
+Morocco,Morocco,3/17/20,44,2,1
+Malta,Malta,3/17/20,38,0,2
+Belarus,Belarus,3/17/20,36,0,3
+Georgia (country),Georgia,3/17/20,34,0,1
+Jordan,Jordan,3/17/20,34,0,1
+Kazakhstan,Kazakhstan,3/17/20,33,0,0
+Venezuela,Venezuela,3/17/20,33,0,0
+Cambodia,Cambodia,3/17/20,33,0,1
+Palestine,Palestine,3/17/20,31,0,0
+Moldova,Moldova,3/17/20,30,0,1
+Uruguay,Uruguay,3/17/20,29,0,0
+Azerbaijan,Azerbaijan,3/17/20,28,1,6
+Senegal,Senegal,3/17/20,26,0,2
+North Macedonia,North Macedonia,3/17/20,31,0,1
+Bosnia and Herzegovina,Bosnia and Herzegovina,3/17/20,26,0,2
+Lithuania,Lithuania,3/17/20,25,0,1
+Oman,Oman,3/17/20,24,0,12
+Tunisia,Tunisia,3/17/20,24,0,0
+Afghanistan,Afghanistan,3/17/20,22,0,1
+Dominican Republic,Dominican Republic,3/17/20,21,0,0
+Guadeloupe,Guadeloupe,3/17/20,18,0,0
+Martinique,Martinique,3/17/20,16,1,0
+Burkina Faso,Burkina Faso,3/17/20,15,0,0
+Ukraine,Ukraine,3/17/20,14,2,0
+Maldives,Maldives,3/17/20,13,0,0
+New Zealand,New Zealand,3/17/20,20,0,0
+Jamaica,Jamaica,3/17/20,15,0,2
+French Guiana,French Guiana,3/17/20,11,0,0
+Bolivia,Bolivia,3/17/20,11,0,0
+Bangladesh,Bangladesh,3/17/20,10,0,3
+Cameroon,Cameroon,3/17/20,10,0,0
+Uzbekistan,Uzbekistan,3/17/20,11,0,0
+Reunion,Reunion,3/17/20,9,0,0
+French Polynesia,French Polynesia,3/17/20,3,0,0
+Paraguay,Paraguay,3/17/20,9,0,0
+Cuba,Cuba,3/17/20,5,0,0
+Liechtenstein,Liechtenstein,3/17/20,7,0,0
+Ghana,Ghana,3/17/20,7,0,0
+Aruba,Aruba,3/17/20,2,0,0
+Monaco,Monaco,3/17/20,7,0,0
+Jersey,Jersey,3/17/20,2,0,0
+Nigeria,Nigeria,3/17/20,3,0,0
+Namibia,Namibia,3/17/20,2,0,0
+Seychelles,Seychelles,3/17/20,4,0,0
+Democratic Republic of the Congo,Democratic Republic of the Congo,3/17/20,3,0,0
+Trinidad and Tobago,Trinidad and Tobago,3/17/20,5,0,0
+Honduras,Honduras,3/17/20,8,0,0
+Ethiopia,Ethiopia,3/17/20,5,0,0
+Guatemala,Guatemala,3/17/20,6,1,0
+Gabon,Gabon,3/17/20,1,0,0
+Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,3/17/20,1,0,0
+Kenya,Kenya,3/17/20,3,0,0
+Saint Lucia,Saint Lucia,3/17/20,2,0,0
+Mongolia,Mongolia,3/17/20,5,0,0
+Rwanda,Rwanda,3/17/20,7,0,0
+Togo,Togo,3/17/20,1,0,0
+Guinea,Guinea,3/17/20,1,0,0
+Guernsey,Guernsey,3/17/20,1,0,0
+Antigua and Barbuda,Antigua and Barbuda,3/17/20,1,0,0
+Curacao,Curacao,3/17/20,1,0,0
+Bhutan,Bhutan,3/17/20,1,0,0
+Sudan,Sudan,3/17/20,1,1,0
+Nepal,Nepal,3/17/20,1,0,1
+Suriname,Suriname,3/17/20,1,0,0
+Cayman Islands,Cayman Islands,3/17/20,1,0,0
+Cote d'Ivoire,Cote d'Ivoire,3/17/20,5,0,1
+Mauritania,Mauritania,3/17/20,1,0,0
+Guyana,Guyana,3/17/20,7,1,0
+Vatican City,Vatican City,3/17/20,1,0,0
+Greenland,Greenland,3/17/20,1,0,0
+New York,USA,3/17/20,1708,16,0
+Washington,USA,3/17/20,1014,55,1
+California,USA,3/17/20,718,13,6
+New Jersey,USA,3/17/20,267,3,1
+Massachusetts,USA,3/17/20,218,0,1
+Florida,USA,3/17/20,217,7,0
+Louisiana,USA,3/17/20,196,4,0
+Colorado,USA,3/17/20,184,2,0
+Illinois,USA,3/17/20,161,1,2
+Georgia,USA,3/17/20,146,1,0
+Texas,USA,3/17/20,132,2,0
+Pennsylvania,USA,3/17/20,115,0,0
+Wisconsin,USA,3/17/20,90,0,1
+Tennessee,USA,3/17/20,78,0,0
+Connecticut,USA,3/17/20,68,0,0
+Oregon,USA,3/17/20,68,2,0
+Ohio,USA,3/17/20,67,0,0
+Virginia,USA,3/17/20,67,2,0
+North Carolina,USA,3/17/20,66,0,0
+Michigan,USA,3/17/20,65,0,0
+Minnesota,USA,3/17/20,60,0,0
+Maryland,USA,3/17/20,60,0,3
+Nevada,USA,3/17/20,56,1,0
+Utah,USA,3/17/20,51,0,0
+Diamond Princess,USA,3/17/20,47,0,0
+South Carolina,USA,3/17/20,47,1,0
+Alabama,USA,3/17/20,39,0,0
+Maine,USA,3/17/20,32,0,0
+District of Columbia,USA,3/17/20,31,0,0
+Indiana,USA,3/17/20,30,2,0
+Iowa,USA,3/17/20,29,0,0
+Kentucky,USA,3/17/20,27,1,1
+New Hampshire,USA,3/17/20,26,0,0
+Nebraska,USA,3/17/20,24,0,0
+New Mexico,USA,3/17/20,23,0,0
+Rhode Island,USA,3/17/20,23,0,0
+Arkansas,USA,3/17/20,22,0,0
+Mississippi,USA,3/17/20,21,0,0
+Arizona,USA,3/17/20,21,0,1
+Grand Princess,USA,3/17/20,21,0,0
+Oklahoma,USA,3/17/20,19,0,0
+Kansas,USA,3/17/20,18,1,0
+Vermont,USA,3/17/20,17,0,0
+Delaware,USA,3/17/20,16,0,0
+Missouri,USA,3/17/20,16,0,0
+Wyoming,USA,3/17/20,15,0,0
+Hawaii,USA,3/17/20,14,0,0
+South Dakota,USA,3/17/20,11,1,0
+Montana,USA,3/17/20,10,0,0
+Idaho,USA,3/17/20,9,0,0
+Alaska,USA,3/17/20,6,0,0
+Guam,USA,3/17/20,5,0,0
+Puerto Rico,USA,3/17/20,5,0,0
+North Dakota,USA,3/17/20,5,0,0
+Wuhan Evacuee,USA,3/17/20,3,0,0
+United States Virgin Islands,USA,3/17/20,2,0,0
+West Virginia,USA,3/17/20,1,0,0
