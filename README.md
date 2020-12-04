@@ -30,6 +30,10 @@ This was my first ever web application development experience!
 3. type `python3 webapp.py perlman.mathcs.carleton.edu (port number)`
 4. Navigate to the local host address on the browser 
 
+## Example Run 
+
+![main page](main.png)
+
 ## Notes
 1. The website was built on Perlman server which is an educational database server that was used in the course. This server only works on the Carleton VPN. 
 2. I forgot what port number was my own port..
